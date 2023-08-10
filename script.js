@@ -86,6 +86,9 @@ $("#benchcount")
 } )
 
 function fantasyCheck() {
+  $.getJSON("QB.json", function(checkJSON) {
+    console.log(checkJSON[1]["Name"]);
+  });
     $(".qb").each(function(){
         $.getJSON("QB.json", function(checkJSON) {
             for (let check = 0; check < Object.keys(checkJSON).length; check++) {
