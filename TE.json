@@ -1,0 +1,919 @@
+[
+  {
+    "Rank": 12,
+    "Name": "Travis Kelce",
+    "Position": "TE",
+    "PPG": 18.6,
+    "Season": 316.3
+  },
+  {
+    "Rank": 55,
+    "Name": "T.J. Hockenson",
+    "Position": "TE",
+    "PPG": 12.7,
+    "Season": 215.4
+  },
+  {
+    "Rank": 64,
+    "Name": "George Kittle",
+    "Position": "TE",
+    "PPG": 13.4,
+    "Season": 200.5
+  },
+  {
+    "Rank": 72,
+    "Name": "Mark Andrews",
+    "Position": "TE",
+    "PPG": 12.7,
+    "Season": 190.5
+  },
+  {
+    "Rank": 84,
+    "Name": "Evan Engram",
+    "Position": "TE",
+    "PPG": 10.4,
+    "Season": 176.9
+  },
+  {
+    "Rank": 119,
+    "Name": "Tyler Higbee",
+    "Position": "TE",
+    "PPG": 9.5,
+    "Season": 152
+  },
+  {
+    "Rank": 125,
+    "Name": "Pat Freiermuth",
+    "Position": "TE",
+    "PPG": 9.9,
+    "Season": 148.2
+  },
+  {
+    "Rank": 126,
+    "Name": "Cole Kmet",
+    "Position": "TE",
+    "PPG": 8.7,
+    "Season": 147.3
+  },
+  {
+    "Rank": 131,
+    "Name": "Taysom Hill",
+    "Position": "TE",
+    "PPG": 9.1,
+    "Season": 145.8
+  },
+  {
+    "Rank": 134,
+    "Name": "Dalton Schultz",
+    "Position": "TE",
+    "PPG": 9.5,
+    "Season": 142.7
+  },
+  {
+    "Rank": 136,
+    "Name": "David Njoku",
+    "Position": "TE",
+    "PPG": 10.1,
+    "Season": 142
+  },
+  {
+    "Rank": 139,
+    "Name": "Dallas Goedert",
+    "Position": "TE",
+    "PPG": 11.8,
+    "Season": 141.2
+  },
+  {
+    "Rank": 141,
+    "Name": "Gerald Everett",
+    "Position": "TE",
+    "PPG": 9.3,
+    "Season": 139.5
+  },
+  {
+    "Rank": 146,
+    "Name": "Dawson Knox",
+    "Position": "TE",
+    "PPG": 9,
+    "Season": 135.7
+  },
+  {
+    "Rank": 150,
+    "Name": "Juwan Johnson",
+    "Position": "TE",
+    "PPG": 8.4,
+    "Season": 134.8
+  },
+  {
+    "Rank": 158,
+    "Name": "Tyler Conklin",
+    "Position": "TE",
+    "PPG": 7.7,
+    "Season": 131.5
+  },
+  {
+    "Rank": 166,
+    "Name": "Noah Fant",
+    "Position": "TE",
+    "PPG": 7.2,
+    "Season": 122.6
+  },
+  {
+    "Rank": 183,
+    "Name": "Jordan Akins",
+    "Position": "TE",
+    "PPG": 7.8,
+    "Season": 116.5
+  },
+  {
+    "Rank": 190,
+    "Name": "Zach Ertz",
+    "Position": "TE",
+    "PPG": 11.6,
+    "Season": 115.6
+  },
+  {
+    "Rank": 202,
+    "Name": "Robert Tonyan",
+    "Position": "TE",
+    "PPG": 6.6,
+    "Season": 112
+  },
+  {
+    "Rank": 205,
+    "Name": "Hayden Hurst",
+    "Position": "TE",
+    "PPG": 7.9,
+    "Season": 109.9
+  },
+  {
+    "Rank": 220,
+    "Name": "Hunter Henry",
+    "Position": "TE",
+    "PPG": 6.5,
+    "Season": 103.9
+  },
+  {
+    "Rank": 235,
+    "Name": "Mike Gesicki",
+    "Position": "TE",
+    "PPG": 5.8,
+    "Season": 98.2
+  },
+  {
+    "Rank": 238,
+    "Name": "Austin Hooper",
+    "Position": "TE",
+    "PPG": 5.7,
+    "Season": 97.4
+  },
+  {
+    "Rank": 239,
+    "Name": "Chigoziem Okonkwo",
+    "Position": "TE",
+    "PPG": 6.1,
+    "Season": 97.2
+  },
+  {
+    "Rank": 245,
+    "Name": "Cade Otton",
+    "Position": "TE",
+    "PPG": 5.8,
+    "Season": 93.1
+  },
+  {
+    "Rank": 246,
+    "Name": "Isaiah Likely",
+    "Position": "TE",
+    "PPG": 6.5,
+    "Season": 91.3
+  },
+  {
+    "Rank": 263,
+    "Name": "Will Dissly",
+    "Position": "TE",
+    "PPG": 5.8,
+    "Season": 86.9
+  },
+  {
+    "Rank": 264,
+    "Name": "Greg Dulcich",
+    "Position": "TE",
+    "PPG": 8.6,
+    "Season": 86.1
+  },
+  {
+    "Rank": 265,
+    "Name": "Foster Moreau",
+    "Position": "TE",
+    "PPG": 6.1,
+    "Season": 85.2
+  },
+  {
+    "Rank": 267,
+    "Name": "Darren Waller",
+    "Position": "TE",
+    "PPG": 9.4,
+    "Season": 84.8
+  },
+  {
+    "Rank": 281,
+    "Name": "Logan Thomas",
+    "Position": "TE",
+    "PPG": 5.9,
+    "Season": 77.3
+  },
+  {
+    "Rank": 284,
+    "Name": "Kyle Pitts",
+    "Position": "TE",
+    "PPG": 7.6,
+    "Season": 75.6
+  },
+  {
+    "Rank": 286,
+    "Name": "Daniel Bellinger",
+    "Position": "TE",
+    "PPG": 6.8,
+    "Season": 75
+  },
+  {
+    "Rank": 287,
+    "Name": "Jelani Woods",
+    "Position": "TE",
+    "PPG": 6.2,
+    "Season": 74.2
+  },
+  {
+    "Rank": 295,
+    "Name": "Noah Gray",
+    "Position": "TE",
+    "PPG": 4.1,
+    "Season": 70
+  },
+  {
+    "Rank": 297,
+    "Name": "Colby Parkinson",
+    "Position": "TE",
+    "PPG": 4.9,
+    "Season": 69.2
+  },
+  {
+    "Rank": 303,
+    "Name": "Brock Wright",
+    "Position": "TE",
+    "PPG": 4.5,
+    "Season": 63.6
+  },
+  {
+    "Rank": 307,
+    "Name": "Harrison Bryant",
+    "Position": "TE",
+    "PPG": 4.4,
+    "Season": 61.7
+  },
+  {
+    "Rank": 310,
+    "Name": "Trey McBride",
+    "Position": "TE",
+    "PPG": 5.1,
+    "Season": 61.5
+  },
+  {
+    "Rank": 311,
+    "Name": "Kylen Granson",
+    "Position": "TE",
+    "PPG": 4.7,
+    "Season": 61.2
+  },
+  {
+    "Rank": 323,
+    "Name": "C.J. Uzomah",
+    "Position": "TE",
+    "PPG": 4,
+    "Season": 56.2
+  },
+  {
+    "Rank": 325,
+    "Name": "Irv Smith Jr.",
+    "Position": "TE",
+    "PPG": 6.9,
+    "Season": 55.2
+  },
+  {
+    "Rank": 326,
+    "Name": "MyCole Pruitt",
+    "Position": "TE",
+    "PPG": 5.5,
+    "Season": 55
+  },
+  {
+    "Rank": 328,
+    "Name": "Mo Alie-Cox",
+    "Position": "TE",
+    "PPG": 3.9,
+    "Season": 53.9
+  },
+  {
+    "Rank": 333,
+    "Name": "Tommy Tremble",
+    "Position": "TE",
+    "PPG": 3.5,
+    "Season": 52.4
+  },
+  {
+    "Rank": 336,
+    "Name": "Jonnu Smith",
+    "Position": "TE",
+    "PPG": 4.3,
+    "Season": 52
+  },
+  {
+    "Rank": 346,
+    "Name": "Jake Ferguson",
+    "Position": "TE",
+    "PPG": 4.4,
+    "Season": 48.4
+  },
+  {
+    "Rank": 354,
+    "Name": "Adam Trautman",
+    "Position": "TE",
+    "PPG": 3.4,
+    "Season": 44.7
+  },
+  {
+    "Rank": 368,
+    "Name": "Shane Zylstra",
+    "Position": "TE",
+    "PPG": 4.6,
+    "Season": 41
+  },
+  {
+    "Rank": 369,
+    "Name": "Josh Oliver",
+    "Position": "TE",
+    "PPG": 3.4,
+    "Season": 40.9
+  },
+  {
+    "Rank": 370,
+    "Name": "Ian Thomas",
+    "Position": "TE",
+    "PPG": 2.9,
+    "Season": 40.7
+  },
+  {
+    "Rank": 371,
+    "Name": "Durham Smythe",
+    "Position": "TE",
+    "PPG": 3.1,
+    "Season": 40
+  },
+  {
+    "Rank": 374,
+    "Name": "Peyton Hendershot",
+    "Position": "TE",
+    "PPG": 3.3,
+    "Season": 39.5
+  },
+  {
+    "Rank": 376,
+    "Name": "Johnny Mundt",
+    "Position": "TE",
+    "PPG": 3,
+    "Season": 39
+  },
+  {
+    "Rank": 382,
+    "Name": "Cameron Brate",
+    "Position": "TE",
+    "PPG": 4.2,
+    "Season": 37.4
+  },
+  {
+    "Rank": 383,
+    "Name": "Mitchell Wilcox",
+    "Position": "TE",
+    "PPG": 4.1,
+    "Season": 36.9
+  },
+  {
+    "Rank": 384,
+    "Name": "O.J. Howard",
+    "Position": "TE",
+    "PPG": 3.3,
+    "Season": 36.5
+  },
+  {
+    "Rank": 386,
+    "Name": "Connor Heyward",
+    "Position": "TE",
+    "PPG": 2.4,
+    "Season": 35.8
+  },
+  {
+    "Rank": 387,
+    "Name": "Eric Saubert",
+    "Position": "TE",
+    "PPG": 2.6,
+    "Season": 35.8
+  },
+  {
+    "Rank": 396,
+    "Name": "Zach Gentry",
+    "Position": "TE",
+    "PPG": 2.3,
+    "Season": 32.2
+  },
+  {
+    "Rank": 402,
+    "Name": "John Bates",
+    "Position": "TE",
+    "PPG": 3.1,
+    "Season": 30.8
+  },
+  {
+    "Rank": 406,
+    "Name": "Teagan Quitoriano",
+    "Position": "TE",
+    "PPG": 4.3,
+    "Season": 30.3
+  },
+  {
+    "Rank": 408,
+    "Name": "Jody Fortson",
+    "Position": "TE",
+    "PPG": 3,
+    "Season": 29.8
+  },
+  {
+    "Rank": 410,
+    "Name": "Donald Parham Jr.",
+    "Position": "TE",
+    "PPG": 4.8,
+    "Season": 29
+  },
+  {
+    "Rank": 412,
+    "Name": "Eric Tomlinson",
+    "Position": "TE",
+    "PPG": 3.2,
+    "Season": 28.9
+  },
+  {
+    "Rank": 415,
+    "Name": "James Mitchell",
+    "Position": "TE",
+    "PPG": 3.5,
+    "Season": 28.3
+  },
+  {
+    "Rank": 418,
+    "Name": "Brevin Jordan",
+    "Position": "TE",
+    "PPG": 3,
+    "Season": 26.8
+  },
+  {
+    "Rank": 419,
+    "Name": "Marcedes Lewis",
+    "Position": "TE",
+    "PPG": 4.4,
+    "Season": 26.6
+  },
+  {
+    "Rank": 424,
+    "Name": "Albert Okwuegbunam",
+    "Position": "TE",
+    "PPG": 4.3,
+    "Season": 25.5
+  },
+  {
+    "Rank": 427,
+    "Name": "Josiah Deguara",
+    "Position": "TE",
+    "PPG": 2.7,
+    "Season": 24.4
+  },
+  {
+    "Rank": 429,
+    "Name": "Geoff Swaim",
+    "Position": "TE",
+    "PPG": 2,
+    "Season": 23.8
+  },
+  {
+    "Rank": 430,
+    "Name": "Pharaoh Brown",
+    "Position": "TE",
+    "PPG": 2.6,
+    "Season": 23.7
+  },
+  {
+    "Rank": 431,
+    "Name": "Jack Stoll",
+    "Position": "TE",
+    "PPG": 2.3,
+    "Season": 23.3
+  },
+  {
+    "Rank": 433,
+    "Name": "Tanner Hudson",
+    "Position": "TE",
+    "PPG": 3.9,
+    "Season": 23.2
+  },
+  {
+    "Rank": 438,
+    "Name": "Dan Arnold",
+    "Position": "TE",
+    "PPG": 2,
+    "Season": 22.5
+  },
+  {
+    "Rank": 447,
+    "Name": "Ko Kieft",
+    "Position": "TE",
+    "PPG": 1.5,
+    "Season": 21
+  },
+  {
+    "Rank": 451,
+    "Name": "Quintin Morris",
+    "Position": "TE",
+    "PPG": 2.3,
+    "Season": 20.4
+  },
+  {
+    "Rank": 457,
+    "Name": "Chris Myarick",
+    "Position": "TE",
+    "PPG": 2,
+    "Season": 19.5
+  },
+  {
+    "Rank": 457,
+    "Name": "Ross Dwelley",
+    "Position": "TE",
+    "PPG": 3.9,
+    "Season": 19.5
+  },
+  {
+    "Rank": 462,
+    "Name": "Anthony Firkser",
+    "Position": "TE",
+    "PPG": 2.4,
+    "Season": 19
+  },
+  {
+    "Rank": 471,
+    "Name": "Giovanni Ricci",
+    "Position": "TE",
+    "PPG": 1.6,
+    "Season": 18
+  },
+  {
+    "Rank": 472,
+    "Name": "Parker Hesse",
+    "Position": "TE",
+    "PPG": 1.5,
+    "Season": 17.9
+  },
+  {
+    "Rank": 473,
+    "Name": "Brycen Hopkins",
+    "Position": "TE",
+    "PPG": 2.6,
+    "Season": 17.9
+  },
+  {
+    "Rank": 477,
+    "Name": "Tre' McKitty",
+    "Position": "TE",
+    "PPG": 1.3,
+    "Season": 17.2
+  },
+  {
+    "Rank": 487,
+    "Name": "Armani Rogers",
+    "Position": "TE",
+    "PPG": 1.6,
+    "Season": 14
+  },
+  {
+    "Rank": 493,
+    "Name": "Grant Calcaterra",
+    "Position": "TE",
+    "PPG": 2.2,
+    "Season": 13.1
+  },
+  {
+    "Rank": 499,
+    "Name": "Andrew Beck",
+    "Position": "TE",
+    "PPG": 1.3,
+    "Season": 11.9
+  },
+  {
+    "Rank": 500,
+    "Name": "Kyle Rudolph",
+    "Position": "TE",
+    "PPG": 2.4,
+    "Season": 11.8
+  },
+  {
+    "Rank": 504,
+    "Name": "Nick Vannett",
+    "Position": "TE",
+    "PPG": 1.6,
+    "Season": 11.5
+  },
+  {
+    "Rank": 516,
+    "Name": "Chris Manhertz",
+    "Position": "TE",
+    "PPG": 1.3,
+    "Season": 10.2
+  },
+  {
+    "Rank": 520,
+    "Name": "Blake Bell",
+    "Position": "TE",
+    "PPG": 5,
+    "Season": 10
+  },
+  {
+    "Rank": 525,
+    "Name": "Tyler Kroft",
+    "Position": "TE",
+    "PPG": 1.6,
+    "Season": 9.7
+  },
+  {
+    "Rank": 534,
+    "Name": "Charlie Kolar",
+    "Position": "TE",
+    "PPG": 8.9,
+    "Season": 8.9
+  },
+  {
+    "Rank": 542,
+    "Name": "Luke Farrell",
+    "Position": "TE",
+    "PPG": 2,
+    "Season": 8
+  },
+  {
+    "Rank": 546,
+    "Name": "Tyler Mabry",
+    "Position": "TE",
+    "PPG": 7.7,
+    "Season": 7.7
+  },
+  {
+    "Rank": 552,
+    "Name": "Ryan Griffin",
+    "Position": "TE",
+    "PPG": 0.7,
+    "Season": 6.6
+  },
+  {
+    "Rank": 552,
+    "Name": "Tyler Davis",
+    "Position": "TE",
+    "PPG": 0.6,
+    "Season": 6.6
+  },
+  {
+    "Rank": 552,
+    "Name": "Trevon Wesco",
+    "Position": "TE",
+    "PPG": 1.1,
+    "Season": 6.6
+  },
+  {
+    "Rank": 552,
+    "Name": "Stephen Sullivan",
+    "Position": "TE",
+    "PPG": 0.8,
+    "Season": 6.6
+  },
+  {
+    "Rank": 564,
+    "Name": "Stone Smartt",
+    "Position": "TE",
+    "PPG": 1.9,
+    "Season": 5.7
+  },
+  {
+    "Rank": 565,
+    "Name": "Ben Ellefson",
+    "Position": "TE",
+    "PPG": 2.8,
+    "Season": 5.6
+  },
+  {
+    "Rank": 566,
+    "Name": "Kendall Blanton",
+    "Position": "TE",
+    "PPG": 2.8,
+    "Season": 5.5
+  },
+  {
+    "Rank": 575,
+    "Name": "Jesper Horsted",
+    "Position": "TE",
+    "PPG": 1,
+    "Season": 4.9
+  },
+  {
+    "Rank": 577,
+    "Name": "Maxx Williams",
+    "Position": "TE",
+    "PPG": 1.6,
+    "Season": 4.8
+  },
+  {
+    "Rank": 585,
+    "Name": "Cole Turner",
+    "Position": "TE",
+    "PPG": 0.6,
+    "Season": 4.3
+  },
+  {
+    "Rank": 591,
+    "Name": "Stephen Anderson",
+    "Position": "TE",
+    "PPG": 0.4,
+    "Season": 3.9
+  },
+  {
+    "Rank": 599,
+    "Name": "Sean McKeon",
+    "Position": "TE",
+    "PPG": 1,
+    "Season": 3.1
+  },
+  {
+    "Rank": 605,
+    "Name": "Mason Schreck",
+    "Position": "TE",
+    "PPG": 1.3,
+    "Season": 2.6
+  },
+  {
+    "Rank": 607,
+    "Name": "Devin Asiasi",
+    "Position": "TE",
+    "PPG": 0.5,
+    "Season": 2.5
+  },
+  {
+    "Rank": 614,
+    "Name": "Jeremy Ruckert",
+    "Position": "TE",
+    "PPG": 0.9,
+    "Season": 1.8
+  },
+  {
+    "Rank": 616,
+    "Name": "Drew Sample",
+    "Position": "TE",
+    "PPG": 0.9,
+    "Season": 1.8
+  },
+  {
+    "Rank": 617,
+    "Name": "Tommy Sweeney",
+    "Position": "TE",
+    "PPG": 0.9,
+    "Season": 1.7
+  },
+  {
+    "Rank": 623,
+    "Name": "Jacob Harris",
+    "Position": "TE",
+    "PPG": 0.5,
+    "Season": 1.6
+  },
+  {
+    "Rank": 628,
+    "Name": "Richard Rodgers",
+    "Position": "TE",
+    "PPG": 0.5,
+    "Season": 1.4
+  },
+  {
+    "Rank": 646,
+    "Name": "Nick Boyle",
+    "Position": "TE",
+    "PPG": 0,
+    "Season": 0
+  },
+  {
+    "Rank": 646,
+    "Name": "Chris Pierce Jr.",
+    "Position": "TE",
+    "PPG": 0,
+    "Season": 0
+  },
+  {
+    "Rank": 646,
+    "Name": "Nikola Kalinic",
+    "Position": "TE",
+    "PPG": 0,
+    "Season": 0
+  },
+  {
+    "Rank": 646,
+    "Name": "Austin Allen",
+    "Position": "TE",
+    "PPG": 0,
+    "Season": 0
+  },
+  {
+    "Rank": 646,
+    "Name": "Jared Pinkney",
+    "Position": "TE",
+    "PPG": 0,
+    "Season": 0
+  },
+  {
+    "Rank": 646,
+    "Name": "Kevin Rader",
+    "Position": "TE",
+    "PPG": 0,
+    "Season": 0
+  },
+  {
+    "Rank": 646,
+    "Name": "Kenny Yeboah",
+    "Position": "TE",
+    "PPG": 0,
+    "Season": 0
+  },
+  {
+    "Rank": 646,
+    "Name": "Charlie Woerner",
+    "Position": "TE",
+    "PPG": 0,
+    "Season": 0
+  },
+  {
+    "Rank": 646,
+    "Name": "J.P. Holtz",
+    "Position": "TE",
+    "PPG": 0,
+    "Season": 0
+  },
+  {
+    "Rank": 646,
+    "Name": "Hunter Long",
+    "Position": "TE",
+    "PPG": 0,
+    "Season": 0
+  },
+  {
+    "Rank": 646,
+    "Name": "Miller Forristall",
+    "Position": "TE",
+    "PPG": 0,
+    "Season": 0
+  },
+  {
+    "Rank": 646,
+    "Name": "James Winchester",
+    "Position": "TE",
+    "PPG": 0,
+    "Season": 0
+  },
+  {
+    "Rank": 646,
+    "Name": "Tyree Jackson",
+    "Position": "TE",
+    "PPG": 0,
+    "Season": 0
+  },
+  {
+    "Rank": 646,
+    "Name": "Beau Brinkley",
+    "Position": "TE",
+    "PPG": 0,
+    "Season": 0
+  },
+  {
+    "Rank": 646,
+    "Name": "Jake Tonges",
+    "Position": "TE",
+    "PPG": 0,
+    "Season": 0
+  },
+  {
+    "Rank": 646,
+    "Name": "Noah Togiai",
+    "Position": "TE",
+    "PPG": 0,
+    "Season": 0
+  }
+]

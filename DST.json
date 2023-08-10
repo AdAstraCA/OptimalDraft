@@ -1,0 +1,226 @@
+[
+  {
+    "Rank": 73,
+    "Name": "New England Patriots",
+    "Position": "DST",
+    "PPG": 10.9,
+    "Season": 186
+  },
+  {
+    "Rank": 91,
+    "Name": "Dallas Cowboys",
+    "Position": "DST",
+    "PPG": 10,
+    "Season": 170
+  },
+  {
+    "Rank": 106,
+    "Name": "San Francisco 49ers",
+    "Position": "DST",
+    "PPG": 9.6,
+    "Season": 163
+  },
+  {
+    "Rank": 119,
+    "Name": "Buffalo Bills",
+    "Position": "DST",
+    "PPG": 8.9,
+    "Season": 152
+  },
+  {
+    "Rank": 123,
+    "Name": "Philadelphia Eagles",
+    "Position": "DST",
+    "PPG": 8.9,
+    "Season": 151
+  },
+  {
+    "Rank": 143,
+    "Name": "Jacksonville Jaguars",
+    "Position": "DST",
+    "PPG": 8.2,
+    "Season": 139
+  },
+  {
+    "Rank": 151,
+    "Name": "Baltimore Ravens",
+    "Position": "DST",
+    "PPG": 7.9,
+    "Season": 134
+  },
+  {
+    "Rank": 171,
+    "Name": "Kansas City Chiefs",
+    "Position": "DST",
+    "PPG": 7.1,
+    "Season": 121
+  },
+  {
+    "Rank": 175,
+    "Name": "Carolina Panthers",
+    "Position": "DST",
+    "PPG": 6.9,
+    "Season": 118
+  },
+  {
+    "Rank": 175,
+    "Name": "New York Jets",
+    "Position": "DST",
+    "PPG": 6.9,
+    "Season": 118
+  },
+  {
+    "Rank": 179,
+    "Name": "Green Bay Packers",
+    "Position": "DST",
+    "PPG": 6.9,
+    "Season": 117
+  },
+  {
+    "Rank": 179,
+    "Name": "Washington Commanders",
+    "Position": "DST",
+    "PPG": 6.9,
+    "Season": 117
+  },
+  {
+    "Rank": 179,
+    "Name": "Seattle Seahawks",
+    "Position": "DST",
+    "PPG": 6.9,
+    "Season": 117
+  },
+  {
+    "Rank": 187,
+    "Name": "Houston Texans",
+    "Position": "DST",
+    "PPG": 6.8,
+    "Season": 116
+  },
+  {
+    "Rank": 187,
+    "Name": "Indianapolis Colts",
+    "Position": "DST",
+    "PPG": 6.8,
+    "Season": 116
+  },
+  {
+    "Rank": 193,
+    "Name": "Cincinnati Bengals",
+    "Position": "DST",
+    "PPG": 6.8,
+    "Season": 115
+  },
+  {
+    "Rank": 193,
+    "Name": "New Orleans Saints",
+    "Position": "DST",
+    "PPG": 6.8,
+    "Season": 115
+  },
+  {
+    "Rank": 207,
+    "Name": "Miami Dolphins",
+    "Position": "DST",
+    "PPG": 6.3,
+    "Season": 107
+  },
+  {
+    "Rank": 207,
+    "Name": "Cleveland Browns",
+    "Position": "DST",
+    "PPG": 6.3,
+    "Season": 107
+  },
+  {
+    "Rank": 207,
+    "Name": "Pittsburgh Steelers",
+    "Position": "DST",
+    "PPG": 6.3,
+    "Season": 107
+  },
+  {
+    "Rank": 207,
+    "Name": "New York Giants",
+    "Position": "DST",
+    "PPG": 6.3,
+    "Season": 107
+  },
+  {
+    "Rank": 211,
+    "Name": "Los Angeles Chargers",
+    "Position": "DST",
+    "PPG": 6.2,
+    "Season": 106
+  },
+  {
+    "Rank": 211,
+    "Name": "Minnesota Vikings",
+    "Position": "DST",
+    "PPG": 6.2,
+    "Season": 106
+  },
+  {
+    "Rank": 217,
+    "Name": "Los Angeles Rams",
+    "Position": "DST",
+    "PPG": 6.1,
+    "Season": 104
+  },
+  {
+    "Rank": 217,
+    "Name": "Tennessee Titans",
+    "Position": "DST",
+    "PPG": 6.1,
+    "Season": 104
+  },
+  {
+    "Rank": 223,
+    "Name": "Arizona Cardinals",
+    "Position": "DST",
+    "PPG": 6.1,
+    "Season": 103
+  },
+  {
+    "Rank": 223,
+    "Name": "Tampa Bay Buccaneers",
+    "Position": "DST",
+    "PPG": 6.1,
+    "Season": 103
+  },
+  {
+    "Rank": 226,
+    "Name": "Denver Broncos",
+    "Position": "DST",
+    "PPG": 6,
+    "Season": 102
+  },
+  {
+    "Rank": 236,
+    "Name": "Detroit Lions",
+    "Position": "DST",
+    "PPG": 5.8,
+    "Season": 98
+  },
+  {
+    "Rank": 252,
+    "Name": "Atlanta Falcons",
+    "Position": "DST",
+    "PPG": 5.2,
+    "Season": 89
+  },
+  {
+    "Rank": 283,
+    "Name": "Las Vegas Raiders",
+    "Position": "DST",
+    "PPG": 4.5,
+    "Season": 77
+  },
+  {
+    "Rank": 306,
+    "Name": "Chicago Bears",
+    "Position": "DST",
+    "PPG": 3.6,
+    "Season": 62
+  }
+]

@@ -1,0 +1,75 @@
+h1 {
+    color: #0F52BA;
+    padding: 1.2rem 0;
+    font-size: 72px;
+    font-family: "Open Sans", sans-serif;
+}
+
+h3 {
+    padding-top: 0.5rem;
+    padding-bottom: 1.5rem;
+    color: #e41c48;
+}
+
+p {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    color: #e41c48;
+}
+
+footer {
+    background-color: #0F52BA;
+    padding-top: 0.5rem;
+    padding-bottom: 0.005rem;
+    color: #d6cfe5;
+}
+.character-info {
+    padding: 1rem 0;
+}
+
+.submit-button {
+    width: 30%;
+    margin: auto;
+    background-color: #0F52BA;
+    color: #d6cfe5;
+    border-color: #d6cfe5;
+    border-width: 5px;
+}
+
+.luckyColor {
+    color: #0F52BA;
+}
+
+.resultsText {
+    padding-top: 1rem;
+    padding-bottom: 0;
+}
+
+#unlucky {
+    background-color: #e41c48;
+}
+
+body {
+    background-color: #f4f6f8;
+    font-family: "Roboto", sans-serif;
+}
+
+label {
+    font-size: 20px;
+    color: #212529;
+}
+
+#game-choice {
+    width: 100%;
+    text-align: center;
+}
+
+#character-choice {
+    width: 50%;
+    text-align: center;
+}
+
+#promotion-choice {
+    width: 30%;
+    text-align: center;
+}

@@ -1,0 +1,618 @@
+[
+  {
+    "Rank": 1,
+    "Name": "Patrick Mahomes II",
+    "Position": "QB",
+    "PPG": 25.3,
+    "Season": 429.4
+  },
+  {
+    "Rank": 2,
+    "Name": "Josh Allen",
+    "Position": "QB",
+    "PPG": 24.2,
+    "Season": 412.2
+  },
+  {
+    "Rank": 3,
+    "Name": "Jalen Hurts",
+    "Position": "QB",
+    "PPG": 25.6,
+    "Season": 384
+  },
+  {
+    "Rank": 5,
+    "Name": "Joe Burrow",
+    "Position": "QB",
+    "PPG": 21.7,
+    "Season": 369
+  },
+  {
+    "Rank": 13,
+    "Name": "Geno Smith",
+    "Position": "QB",
+    "PPG": 18.5,
+    "Season": 314.9
+  },
+  {
+    "Rank": 14,
+    "Name": "Justin Fields",
+    "Position": "QB",
+    "PPG": 20.5,
+    "Season": 307
+  },
+  {
+    "Rank": 15,
+    "Name": "Kirk Cousins",
+    "Position": "QB",
+    "PPG": 18,
+    "Season": 305.6
+  },
+  {
+    "Rank": 16,
+    "Name": "Trevor Lawrence",
+    "Position": "QB",
+    "PPG": 17.9,
+    "Season": 303.6
+  },
+  {
+    "Rank": 20,
+    "Name": "Daniel Jones",
+    "Position": "QB",
+    "PPG": 18.4,
+    "Season": 294
+  },
+  {
+    "Rank": 21,
+    "Name": "Jared Goff",
+    "Position": "QB",
+    "PPG": 17.1,
+    "Season": 291.3
+  },
+  {
+    "Rank": 22,
+    "Name": "Justin Herbert",
+    "Position": "QB",
+    "PPG": 17.1,
+    "Season": 291.3
+  },
+  {
+    "Rank": 25,
+    "Name": "Tom Brady",
+    "Position": "QB",
+    "PPG": 16.5,
+    "Season": 280.7
+  },
+  {
+    "Rank": 29,
+    "Name": "Aaron Rodgers",
+    "Position": "QB",
+    "PPG": 14.8,
+    "Season": 251.2
+  },
+  {
+    "Rank": 34,
+    "Name": "Lamar Jackson",
+    "Position": "QB",
+    "PPG": 20.3,
+    "Season": 243.1
+  },
+  {
+    "Rank": 38,
+    "Name": "Tua Tagovailoa",
+    "Position": "QB",
+    "PPG": 18.4,
+    "Season": 238.9
+  },
+  {
+    "Rank": 41,
+    "Name": "Russell Wilson",
+    "Position": "QB",
+    "PPG": 15.8,
+    "Season": 236.8
+  },
+  {
+    "Rank": 42,
+    "Name": "Derek Carr",
+    "Position": "QB",
+    "PPG": 15.5,
+    "Season": 233.1
+  },
+  {
+    "Rank": 56,
+    "Name": "Dak Prescott",
+    "Position": "QB",
+    "PPG": 17.8,
+    "Season": 213.6
+  },
+  {
+    "Rank": 58,
+    "Name": "Kyler Murray",
+    "Position": "QB",
+    "PPG": 18.9,
+    "Season": 207.5
+  },
+  {
+    "Rank": 59,
+    "Name": "Marcus Mariota",
+    "Position": "QB",
+    "PPG": 15.8,
+    "Season": 205.6
+  },
+  {
+    "Rank": 69,
+    "Name": "Davis Mills",
+    "Position": "QB",
+    "PPG": 13.1,
+    "Season": 196.5
+  },
+  {
+    "Rank": 76,
+    "Name": "Andy Dalton",
+    "Position": "QB",
+    "PPG": 13.1,
+    "Season": 183.2
+  },
+  {
+    "Rank": 77,
+    "Name": "Mac Jones",
+    "Position": "QB",
+    "PPG": 12.9,
+    "Season": 181.1
+  },
+  {
+    "Rank": 89,
+    "Name": "Jacoby Brissett",
+    "Position": "QB",
+    "PPG": 12.5,
+    "Season": 174.6
+  },
+  {
+    "Rank": 93,
+    "Name": "Jimmy Garoppolo",
+    "Position": "QB",
+    "PPG": 15.3,
+    "Season": 168.8
+  },
+  {
+    "Rank": 96,
+    "Name": "Matt Ryan",
+    "Position": "QB",
+    "PPG": 14,
+    "Season": 168.3
+  },
+  {
+    "Rank": 98,
+    "Name": "Ryan Tannehill",
+    "Position": "QB",
+    "PPG": 13.9,
+    "Season": 167.2
+  },
+  {
+    "Rank": 112,
+    "Name": "Kenny Pickett",
+    "Position": "QB",
+    "PPG": 12.2,
+    "Season": 158.9
+  },
+  {
+    "Rank": 161,
+    "Name": "Baker Mayfield",
+    "Position": "QB",
+    "PPG": 10.8,
+    "Season": 129.4
+  },
+  {
+    "Rank": 169,
+    "Name": "Taylor Heinicke",
+    "Position": "QB",
+    "PPG": 13.6,
+    "Season": 122
+  },
+  {
+    "Rank": 170,
+    "Name": "Carson Wentz",
+    "Position": "QB",
+    "PPG": 15.2,
+    "Season": 121.8
+  },
+  {
+    "Rank": 184,
+    "Name": "Matthew Stafford",
+    "Position": "QB",
+    "PPG": 12.9,
+    "Season": 116.4
+  },
+  {
+    "Rank": 203,
+    "Name": "Brock Purdy",
+    "Position": "QB",
+    "PPG": 12.3,
+    "Season": 110.3
+  },
+  {
+    "Rank": 213,
+    "Name": "Zach Wilson",
+    "Position": "QB",
+    "PPG": 11.8,
+    "Season": 105.9
+  },
+  {
+    "Rank": 248,
+    "Name": "Deshaun Watson",
+    "Position": "QB",
+    "PPG": 15.1,
+    "Season": 90.6
+  },
+  {
+    "Rank": 251,
+    "Name": "Sam Darnold",
+    "Position": "QB",
+    "PPG": 14.9,
+    "Season": 89.3
+  },
+  {
+    "Rank": 280,
+    "Name": "Mitch Trubisky",
+    "Position": "QB",
+    "PPG": 11.3,
+    "Season": 78.9
+  },
+  {
+    "Rank": 312,
+    "Name": "Mike White",
+    "Position": "QB",
+    "PPG": 15.1,
+    "Season": 60.6
+  },
+  {
+    "Rank": 315,
+    "Name": "Cooper Rush",
+    "Position": "QB",
+    "PPG": 7.5,
+    "Season": 59.6
+  },
+  {
+    "Rank": 331,
+    "Name": "Tyler Huntley",
+    "Position": "QB",
+    "PPG": 10.6,
+    "Season": 53
+  },
+  {
+    "Rank": 340,
+    "Name": "Joe Flacco",
+    "Position": "QB",
+    "PPG": 10.3,
+    "Season": 51.3
+  },
+  {
+    "Rank": 344,
+    "Name": "Jameis Winston",
+    "Position": "QB",
+    "PPG": 16.3,
+    "Season": 48.9
+  },
+  {
+    "Rank": 351,
+    "Name": "Jarrett Stidham",
+    "Position": "QB",
+    "PPG": 15.2,
+    "Season": 45.6
+  },
+  {
+    "Rank": 360,
+    "Name": "Bailey Zappe",
+    "Position": "QB",
+    "PPG": 10.7,
+    "Season": 42.6
+  },
+  {
+    "Rank": 363,
+    "Name": "P.J. Walker",
+    "Position": "QB",
+    "PPG": 7,
+    "Season": 42.1
+  },
+  {
+    "Rank": 364,
+    "Name": "Teddy Bridgewater",
+    "Position": "QB",
+    "PPG": 8.4,
+    "Season": 42
+  },
+  {
+    "Rank": 373,
+    "Name": "Gardner Minshew II",
+    "Position": "QB",
+    "PPG": 8,
+    "Season": 39.8
+  },
+  {
+    "Rank": 377,
+    "Name": "Desmond Ridder",
+    "Position": "QB",
+    "PPG": 9.7,
+    "Season": 38.7
+  },
+  {
+    "Rank": 378,
+    "Name": "Sam Ehlinger",
+    "Position": "QB",
+    "PPG": 9.7,
+    "Season": 38.6
+  },
+  {
+    "Rank": 387,
+    "Name": "Colt McCoy",
+    "Position": "QB",
+    "PPG": 9,
+    "Season": 35.8
+  },
+  {
+    "Rank": 435,
+    "Name": "Joshua Dobbs",
+    "Position": "QB",
+    "PPG": 11.4,
+    "Season": 22.8
+  },
+  {
+    "Rank": 439,
+    "Name": "Malik Willis",
+    "Position": "QB",
+    "PPG": 3.2,
+    "Season": 22.3
+  },
+  {
+    "Rank": 441,
+    "Name": "Brett Rypien",
+    "Position": "QB",
+    "PPG": 5.5,
+    "Season": 22
+  },
+  {
+    "Rank": 448,
+    "Name": "Davis Webb",
+    "Position": "QB",
+    "PPG": 20.8,
+    "Season": 20.8
+  },
+  {
+    "Rank": 449,
+    "Name": "David Blough",
+    "Position": "QB",
+    "PPG": 10.3,
+    "Season": 20.6
+  },
+  {
+    "Rank": 450,
+    "Name": "Skylar Thompson",
+    "Position": "QB",
+    "PPG": 2.9,
+    "Season": 20.5
+  },
+  {
+    "Rank": 456,
+    "Name": "Kyle Allen",
+    "Position": "QB",
+    "PPG": 6.6,
+    "Season": 19.9
+  },
+  {
+    "Rank": 459,
+    "Name": "Sam Howell",
+    "Position": "QB",
+    "PPG": 19.3,
+    "Season": 19.3
+  },
+  {
+    "Rank": 474,
+    "Name": "John Wolford",
+    "Position": "QB",
+    "PPG": 8.9,
+    "Season": 17.8
+  },
+  {
+    "Rank": 475,
+    "Name": "Bryce Perkins",
+    "Position": "QB",
+    "PPG": 3.5,
+    "Season": 17.4
+  },
+  {
+    "Rank": 476,
+    "Name": "Jeff Driskel",
+    "Position": "QB",
+    "PPG": 2.5,
+    "Season": 17.2
+  },
+  {
+    "Rank": 489,
+    "Name": "Trace McSorley",
+    "Position": "QB",
+    "PPG": 2.7,
+    "Season": 13.6
+  },
+  {
+    "Rank": 491,
+    "Name": "Trey Lance",
+    "Position": "QB",
+    "PPG": 4.5,
+    "Season": 13.5
+  },
+  {
+    "Rank": 495,
+    "Name": "Nick Mullens",
+    "Position": "QB",
+    "PPG": 3.2,
+    "Season": 12.8
+  },
+  {
+    "Rank": 496,
+    "Name": "Tyrod Taylor",
+    "Position": "QB",
+    "PPG": 4.1,
+    "Season": 12.3
+  },
+  {
+    "Rank": 502,
+    "Name": "Jordan Love",
+    "Position": "QB",
+    "PPG": 2.9,
+    "Season": 11.7
+  },
+  {
+    "Rank": 510,
+    "Name": "Trevor Siemian",
+    "Position": "QB",
+    "PPG": 5.6,
+    "Season": 11.2
+  },
+  {
+    "Rank": 530,
+    "Name": "Nathan Peterman",
+    "Position": "QB",
+    "PPG": 3.1,
+    "Season": 9.3
+  },
+  {
+    "Rank": 532,
+    "Name": "Chris Streveler",
+    "Position": "QB",
+    "PPG": 9,
+    "Season": 9
+  },
+  {
+    "Rank": 537,
+    "Name": "Chase Daniel",
+    "Position": "QB",
+    "PPG": 2.8,
+    "Season": 8.5
+  },
+  {
+    "Rank": 547,
+    "Name": "Anthony Brown",
+    "Position": "QB",
+    "PPG": 3.8,
+    "Season": 7.6
+  },
+  {
+    "Rank": 563,
+    "Name": "Nick Foles",
+    "Position": "QB",
+    "PPG": 2.9,
+    "Season": 5.8
+  },
+  {
+    "Rank": 573,
+    "Name": "Blaine Gabbert",
+    "Position": "QB",
+    "PPG": 5.2,
+    "Season": 5.2
+  },
+  {
+    "Rank": 627,
+    "Name": "Brian Hoyer",
+    "Position": "QB",
+    "PPG": 1.5,
+    "Season": 1.5
+  },
+  {
+    "Rank": 629,
+    "Name": "Jacob Eason",
+    "Position": "QB",
+    "PPG": 1.4,
+    "Season": 1.4
+  },
+  {
+    "Rank": 636,
+    "Name": "Kyle Trask",
+    "Position": "QB",
+    "PPG": 0.9,
+    "Season": 0.9
+  },
+  {
+    "Rank": 638,
+    "Name": "Brandon Allen",
+    "Position": "QB",
+    "PPG": 0.8,
+    "Season": 0.8
+  },
+  {
+    "Rank": 639,
+    "Name": "Josh Johnson",
+    "Position": "QB",
+    "PPG": 0.7,
+    "Season": 0.7
+  },
+  {
+    "Rank": 643,
+    "Name": "Case Keenum",
+    "Position": "QB",
+    "PPG": 0.2,
+    "Season": 0.3
+  },
+  {
+    "Rank": 646,
+    "Name": "Matt Corral",
+    "Position": "QB",
+    "PPG": 0,
+    "Season": 0
+  },
+  {
+    "Rank": 646,
+    "Name": "Davis Cheek",
+    "Position": "QB",
+    "PPG": 0,
+    "Season": 0
+  },
+  {
+    "Rank": 646,
+    "Name": "Feleipe Franks",
+    "Position": "QB",
+    "PPG": 0,
+    "Season": 0
+  },
+  {
+    "Rank": 646,
+    "Name": "C.J. Beathard",
+    "Position": "QB",
+    "PPG": 0,
+    "Season": 0
+  },
+  {
+    "Rank": 646,
+    "Name": "Matt Barkley",
+    "Position": "QB",
+    "PPG": 0,
+    "Season": 0
+  },
+  {
+    "Rank": 646,
+    "Name": "Logan Woodside",
+    "Position": "QB",
+    "PPG": 0,
+    "Season": 0
+  },
+  {
+    "Rank": 717,
+    "Name": "Nate Sudfeld",
+    "Position": "QB",
+    "PPG": -0.2,
+    "Season": -0.4
+  },
+  {
+    "Rank": 719,
+    "Name": "Chad Henne",
+    "Position": "QB",
+    "PPG": -0.2,
+    "Season": -0.5
+  },
+  {
+    "Rank": 720,
+    "Name": "Tim Boyle",
+    "Position": "QB",
+    "PPG": -0.9,
+    "Season": -0.9
+  }
+]

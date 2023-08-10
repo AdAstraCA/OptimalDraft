@@ -1,0 +1,2324 @@
+[
+  {
+    "Rank": 1,
+    "Name": "Jonathan Taylor",
+    "Position": "RB",
+    "Sleeper": 1,
+    "RTS": 1,
+    "ESPN": 1,
+    "Avg": 1
+  },
+  {
+    "Rank": 2,
+    "Name": "Christian McCaffrey",
+    "Position": "RB",
+    "Sleeper": 2,
+    "RTS": 2,
+    "ESPN": 2,
+    "Avg": 2
+  },
+  {
+    "Rank": 3,
+    "Name": "Austin Ekeler",
+    "Position": "RB",
+    "Sleeper": 4,
+    "RTS": 3,
+    "ESPN": 4,
+    "Avg": 3.7
+  },
+  {
+    "Rank": 4,
+    "Name": "Cooper Kupp",
+    "Position": "WR",
+    "Sleeper": 5,
+    "RTS": 5,
+    "ESPN": 3,
+    "Avg": 4.3
+  },
+  {
+    "Rank": 5,
+    "Name": "Derrick Henry",
+    "Position": "RB",
+    "Sleeper": 3,
+    "RTS": 8,
+    "ESPN": 5,
+    "Avg": 5.3
+  },
+  {
+    "Rank": 6,
+    "Name": "Justin Jefferson",
+    "Position": "WR",
+    "Sleeper": 6,
+    "RTS": 4,
+    "ESPN": 6,
+    "Avg": 5.3
+  },
+  {
+    "Rank": 7,
+    "Name": "Najee Harris",
+    "Position": "RB",
+    "Sleeper": 8,
+    "RTS": 6,
+    "ESPN": 8,
+    "Avg": 7.3
+  },
+  {
+    "Rank": 8,
+    "Name": "Dalvin Cook",
+    "Position": "RB",
+    "Sleeper": 7,
+    "RTS": 7,
+    "ESPN": 9,
+    "Avg": 7.7
+  },
+  {
+    "Rank": 9,
+    "Name": "Ja'Marr Chase",
+    "Position": "WR",
+    "Sleeper": 9,
+    "RTS": 9,
+    "ESPN": 7,
+    "Avg": 8.3
+  },
+  {
+    "Rank": 10,
+    "Name": "Joe Mixon",
+    "Position": "RB",
+    "Sleeper": 10,
+    "RTS": 10,
+    "ESPN": 12,
+    "Avg": 10.7
+  },
+  {
+    "Rank": 11,
+    "Name": "Davante Adams",
+    "Position": "WR",
+    "Sleeper": 11,
+    "RTS": 15,
+    "ESPN": 11,
+    "Avg": 12.3
+  },
+  {
+    "Rank": 12,
+    "Name": "Alvin Kamara",
+    "Position": "RB",
+    "Sleeper": 15,
+    "RTS": 13,
+    "ESPN": 10,
+    "Avg": 12.7
+  },
+  {
+    "Rank": 13,
+    "Name": "Stefon Diggs",
+    "Position": "WR",
+    "Sleeper": 12,
+    "RTS": 14,
+    "ESPN": 13,
+    "Avg": 13
+  },
+  {
+    "Rank": 14,
+    "Name": "D'Andre Swift",
+    "Position": "RB",
+    "Sleeper": 14,
+    "RTS": 11,
+    "ESPN": 15,
+    "Avg": 13.3
+  },
+  {
+    "Rank": 15,
+    "Name": "Travis Kelce",
+    "Position": "TE",
+    "Sleeper": 13,
+    "RTS": 17,
+    "ESPN": 17,
+    "Avg": 15.7
+  },
+  {
+    "Rank": 16,
+    "Name": "Deebo Samuel",
+    "Position": "WR",
+    "Sleeper": 21,
+    "RTS": 20,
+    "ESPN": 14,
+    "Avg": 18.3
+  },
+  {
+    "Rank": 17,
+    "Name": "Saquon Barkley",
+    "Position": "RB",
+    "Sleeper": 19,
+    "RTS": 12,
+    "ESPN": 26,
+    "Avg": 19
+  },
+  {
+    "Rank": 18,
+    "Name": "CeeDee Lamb",
+    "Position": "WR",
+    "Sleeper": 18,
+    "RTS": 21,
+    "ESPN": 19,
+    "Avg": 19.3
+  },
+  {
+    "Rank": 19,
+    "Name": "Tyreek Hill",
+    "Position": "WR",
+    "Sleeper": 20,
+    "RTS": 23,
+    "ESPN": 16,
+    "Avg": 19.7
+  },
+  {
+    "Rank": 20,
+    "Name": "Aaron Jones",
+    "Position": "RB",
+    "Sleeper": 17,
+    "RTS": 22,
+    "ESPN": 21,
+    "Avg": 20
+  },
+  {
+    "Rank": 21,
+    "Name": "Nick Chubb",
+    "Position": "RB",
+    "Sleeper": 16,
+    "RTS": 18,
+    "ESPN": 28,
+    "Avg": 20.7
+  },
+  {
+    "Rank": 22,
+    "Name": "Leonard Fournette",
+    "Position": "RB",
+    "Sleeper": 25,
+    "RTS": 19,
+    "ESPN": 18,
+    "Avg": 20.7
+  },
+  {
+    "Rank": 23,
+    "Name": "Javonte Williams",
+    "Position": "RB",
+    "Sleeper": 24,
+    "RTS": 16,
+    "ESPN": 23,
+    "Avg": 21
+  },
+  {
+    "Rank": 24,
+    "Name": "Josh Allen",
+    "Position": "QB",
+    "Sleeper": 22,
+    "RTS": 24,
+    "ESPN": 22,
+    "Avg": 22.7
+  },
+  {
+    "Rank": 25,
+    "Name": "Mark Andrews",
+    "Position": "TE",
+    "Sleeper": 23,
+    "RTS": 25,
+    "ESPN": 20,
+    "Avg": 22.7
+  },
+  {
+    "Rank": 26,
+    "Name": "Mike Evans",
+    "Position": "WR",
+    "Sleeper": 26,
+    "RTS": 28,
+    "ESPN": 27,
+    "Avg": 27
+  },
+  {
+    "Rank": 27,
+    "Name": "James Conner",
+    "Position": "RB",
+    "Sleeper": 31,
+    "RTS": 26,
+    "ESPN": 25,
+    "Avg": 27.3
+  },
+  {
+    "Rank": 28,
+    "Name": "Keenan Allen",
+    "Position": "WR",
+    "Sleeper": 27,
+    "RTS": 33,
+    "ESPN": 24,
+    "Avg": 28
+  },
+  {
+    "Rank": 29,
+    "Name": "A.J. Brown",
+    "Position": "WR",
+    "Sleeper": 28,
+    "RTS": 30,
+    "ESPN": 34,
+    "Avg": 30.7
+  },
+  {
+    "Rank": 30,
+    "Name": "Ezekiel Elliott",
+    "Position": "RB",
+    "Sleeper": 29,
+    "RTS": 27,
+    "ESPN": 38,
+    "Avg": 31.3
+  },
+  {
+    "Rank": 31,
+    "Name": "Michael Pittman Jr.",
+    "Position": "WR",
+    "Sleeper": 35,
+    "RTS": 29,
+    "ESPN": 31,
+    "Avg": 31.7
+  },
+  {
+    "Rank": 32,
+    "Name": "Patrick Mahomes II",
+    "Position": "QB",
+    "Sleeper": 32,
+    "RTS": 35,
+    "ESPN": 29,
+    "Avg": 32
+  },
+  {
+    "Rank": 33,
+    "Name": "Kyle Pitts",
+    "Position": "TE",
+    "Sleeper": 30,
+    "RTS": 32,
+    "ESPN": 35,
+    "Avg": 32.3
+  },
+  {
+    "Rank": 34,
+    "Name": "Tee Higgins",
+    "Position": "WR",
+    "Sleeper": 33,
+    "RTS": 36,
+    "ESPN": 30,
+    "Avg": 33
+  },
+  {
+    "Rank": 35,
+    "Name": "Cam Akers",
+    "Position": "RB",
+    "Sleeper": 37,
+    "RTS": 37,
+    "ESPN": 33,
+    "Avg": 35.7
+  },
+  {
+    "Rank": 36,
+    "Name": "Justin Herbert",
+    "Position": "QB",
+    "Sleeper": 34,
+    "RTS": 38,
+    "ESPN": 36,
+    "Avg": 36
+  },
+  {
+    "Rank": 37,
+    "Name": "David Montgomery",
+    "Position": "RB",
+    "Sleeper": 40,
+    "RTS": 34,
+    "ESPN": 39,
+    "Avg": 37.7
+  },
+  {
+    "Rank": 38,
+    "Name": "D.J. Moore",
+    "Position": "WR",
+    "Sleeper": 42,
+    "RTS": 39,
+    "ESPN": 32,
+    "Avg": 37.7
+  },
+  {
+    "Rank": 39,
+    "Name": "Travis Etienne Jr.",
+    "Position": "RB",
+    "Sleeper": 39,
+    "RTS": 31,
+    "ESPN": 47,
+    "Avg": 39
+  },
+  {
+    "Rank": 40,
+    "Name": "Terry McLaurin",
+    "Position": "WR",
+    "Sleeper": 38,
+    "RTS": 47,
+    "ESPN": 37,
+    "Avg": 40.7
+  },
+  {
+    "Rank": 41,
+    "Name": "George Kittle",
+    "Position": "TE",
+    "Sleeper": 36,
+    "RTS": 48,
+    "ESPN": 41,
+    "Avg": 41.7
+  },
+  {
+    "Rank": 42,
+    "Name": "Diontae Johnson",
+    "Position": "WR",
+    "Sleeper": 43,
+    "RTS": 46,
+    "ESPN": 42,
+    "Avg": 43.7
+  },
+  {
+    "Rank": 43,
+    "Name": "Mike Williams",
+    "Position": "WR",
+    "Sleeper": 50,
+    "RTS": 44,
+    "ESPN": 40,
+    "Avg": 44.7
+  },
+  {
+    "Rank": 44,
+    "Name": "Breece Hall",
+    "Position": "RB",
+    "Sleeper": 46,
+    "RTS": 45,
+    "ESPN": 46,
+    "Avg": 45.7
+  },
+  {
+    "Rank": 45,
+    "Name": "Lamar Jackson",
+    "Position": "QB",
+    "Sleeper": 45,
+    "RTS": 52,
+    "ESPN": 43,
+    "Avg": 46.7
+  },
+  {
+    "Rank": 46,
+    "Name": "Darren Waller",
+    "Position": "TE",
+    "Sleeper": 41,
+    "RTS": 51,
+    "ESPN": 48,
+    "Avg": 46.7
+  },
+  {
+    "Rank": 47,
+    "Name": "Courtland Sutton",
+    "Position": "WR",
+    "Sleeper": 48,
+    "RTS": 42,
+    "ESPN": 52,
+    "Avg": 47.3
+  },
+  {
+    "Rank": 48,
+    "Name": "Jaylen Waddle",
+    "Position": "WR",
+    "Sleeper": 44,
+    "RTS": 58,
+    "ESPN": 44,
+    "Avg": 48.7
+  },
+  {
+    "Rank": 49,
+    "Name": "Josh Jacobs",
+    "Position": "RB",
+    "Sleeper": 49,
+    "RTS": 49,
+    "ESPN": 53,
+    "Avg": 50.3
+  },
+  {
+    "Rank": 50,
+    "Name": "DK Metcalf",
+    "Position": "WR",
+    "Sleeper": 47,
+    "RTS": 60,
+    "ESPN": 45,
+    "Avg": 50.7
+  },
+  {
+    "Rank": 51,
+    "Name": "J.K. Dobbins",
+    "Position": "RB",
+    "Sleeper": 53,
+    "RTS": 50,
+    "ESPN": 55,
+    "Avg": 52.7
+  },
+  {
+    "Rank": 52,
+    "Name": "Elijah Mitchell",
+    "Position": "RB",
+    "Sleeper": 58,
+    "RTS": 41,
+    "ESPN": 63,
+    "Avg": 54
+  },
+  {
+    "Rank": 53,
+    "Name": "Brandin Cooks",
+    "Position": "WR",
+    "Sleeper": 61,
+    "RTS": 57,
+    "ESPN": 49,
+    "Avg": 55.7
+  },
+  {
+    "Rank": 54,
+    "Name": "Kyler Murray",
+    "Position": "QB",
+    "Sleeper": 55,
+    "RTS": 66,
+    "ESPN": 51,
+    "Avg": 57.3
+  },
+  {
+    "Rank": 55,
+    "Name": "Jalen Hurts",
+    "Position": "QB",
+    "Sleeper": 64,
+    "RTS": 54,
+    "ESPN": 57,
+    "Avg": 58.3
+  },
+  {
+    "Rank": 56,
+    "Name": "Dalton Schultz",
+    "Position": "TE",
+    "Sleeper": 54,
+    "RTS": 63,
+    "ESPN": 58,
+    "Avg": 58.3
+  },
+  {
+    "Rank": 57,
+    "Name": "Marquise Brown",
+    "Position": "WR",
+    "Sleeper": 59,
+    "RTS": 64,
+    "ESPN": 54,
+    "Avg": 59
+  },
+  {
+    "Rank": 58,
+    "Name": "Amon-Ra St. Brown",
+    "Position": "WR",
+    "Sleeper": 68,
+    "RTS": 56,
+    "ESPN": 56,
+    "Avg": 60
+  },
+  {
+    "Rank": 59,
+    "Name": "Jerry Jeudy",
+    "Position": "WR",
+    "Sleeper": 51,
+    "RTS": 79,
+    "ESPN": 50,
+    "Avg": 60
+  },
+  {
+    "Rank": 60,
+    "Name": "Gabriel Davis",
+    "Position": "WR",
+    "Sleeper": 75,
+    "RTS": 53,
+    "ESPN": 59,
+    "Avg": 62.3
+  },
+  {
+    "Rank": 61,
+    "Name": "Allen Robinson II",
+    "Position": "WR",
+    "Sleeper": 57,
+    "RTS": 62,
+    "ESPN": 69,
+    "Avg": 62.7
+  },
+  {
+    "Rank": 62,
+    "Name": "Chris Godwin",
+    "Position": "WR",
+    "Sleeper": 65,
+    "RTS": 68,
+    "ESPN": 60,
+    "Avg": 64.3
+  },
+  {
+    "Rank": 63,
+    "Name": "Darnell Mooney",
+    "Position": "WR",
+    "Sleeper": 73,
+    "RTS": 59,
+    "ESPN": 62,
+    "Avg": 64.7
+  },
+  {
+    "Rank": 64,
+    "Name": "Joe Burrow",
+    "Position": "QB",
+    "Sleeper": 52,
+    "RTS": 69,
+    "ESPN": 75,
+    "Avg": 65.3
+  },
+  {
+    "Rank": 65,
+    "Name": "Clyde Edwards-Helaire",
+    "Position": "RB",
+    "Sleeper": 67,
+    "RTS": 71,
+    "ESPN": 61,
+    "Avg": 66.3
+  },
+  {
+    "Rank": 66,
+    "Name": "Antonio Gibson",
+    "Position": "RB",
+    "Sleeper": 56,
+    "RTS": 61,
+    "ESPN": 84,
+    "Avg": 67
+  },
+  {
+    "Rank": 67,
+    "Name": "AJ Dillon",
+    "Position": "RB",
+    "Sleeper": 63,
+    "RTS": 43,
+    "ESPN": 98,
+    "Avg": 68
+  },
+  {
+    "Rank": 68,
+    "Name": "T.J. Hockenson",
+    "Position": "TE",
+    "Sleeper": 62,
+    "RTS": 77,
+    "ESPN": 65,
+    "Avg": 68
+  },
+  {
+    "Rank": 69,
+    "Name": "Michael Thomas",
+    "Position": "WR",
+    "Sleeper": 66,
+    "RTS": 73,
+    "ESPN": 72,
+    "Avg": 70.3
+  },
+  {
+    "Rank": 70,
+    "Name": "JuJu Smith-Schuster",
+    "Position": "WR",
+    "Sleeper": 70,
+    "RTS": 75,
+    "ESPN": 67,
+    "Avg": 70.7
+  },
+  {
+    "Rank": 71,
+    "Name": "Amari Cooper",
+    "Position": "WR",
+    "Sleeper": 60,
+    "RTS": 82,
+    "ESPN": 70,
+    "Avg": 70.7
+  },
+  {
+    "Rank": 72,
+    "Name": "Adam Thielen",
+    "Position": "WR",
+    "Sleeper": 69,
+    "RTS": 74,
+    "ESPN": 71,
+    "Avg": 71.3
+  },
+  {
+    "Rank": 73,
+    "Name": "Dameon Pierce",
+    "Position": "RB",
+    "Sleeper": 98,
+    "RTS": 40,
+    "ESPN": 81,
+    "Avg": 73
+  },
+  {
+    "Rank": 74,
+    "Name": "Tom Brady",
+    "Position": "QB",
+    "Sleeper": 74,
+    "RTS": 84,
+    "ESPN": 64,
+    "Avg": 74
+  },
+  {
+    "Rank": 75,
+    "Name": "Devin Singletary",
+    "Position": "RB",
+    "Sleeper": 90,
+    "RTS": 72,
+    "ESPN": 66,
+    "Avg": 76
+  },
+  {
+    "Rank": 76,
+    "Name": "Dallas Goedert",
+    "Position": "TE",
+    "Sleeper": 72,
+    "RTS": 83,
+    "ESPN": 78,
+    "Avg": 77.7
+  },
+  {
+    "Rank": 77,
+    "Name": "Miles Sanders",
+    "Position": "RB",
+    "Sleeper": 77,
+    "RTS": 81,
+    "ESPN": 76,
+    "Avg": 78
+  },
+  {
+    "Rank": 78,
+    "Name": "Rashod Bateman",
+    "Position": "WR",
+    "Sleeper": 76,
+    "RTS": 78,
+    "ESPN": 82,
+    "Avg": 78.7
+  },
+  {
+    "Rank": 79,
+    "Name": "Russell Wilson",
+    "Position": "QB",
+    "Sleeper": 71,
+    "RTS": 89,
+    "ESPN": 77,
+    "Avg": 79
+  },
+  {
+    "Rank": 80,
+    "Name": "Chase Edmonds",
+    "Position": "RB",
+    "Sleeper": 87,
+    "RTS": 55,
+    "ESPN": 97,
+    "Avg": 79.7
+  },
+  {
+    "Rank": 81,
+    "Name": "Kareem Hunt",
+    "Position": "RB",
+    "Sleeper": 80,
+    "RTS": 80,
+    "ESPN": 80,
+    "Avg": 80
+  },
+  {
+    "Rank": 82,
+    "Name": "Cordarrelle Patterson",
+    "Position": "RB",
+    "Sleeper": 81,
+    "RTS": 76,
+    "ESPN": 87,
+    "Avg": 81.3
+  },
+  {
+    "Rank": 83,
+    "Name": "Tony Pollard",
+    "Position": "RB",
+    "Sleeper": 83,
+    "RTS": 70,
+    "ESPN": 92,
+    "Avg": 81.7
+  },
+  {
+    "Rank": 84,
+    "Name": "Hunter Renfrow",
+    "Position": "WR",
+    "Sleeper": 82,
+    "RTS": 95,
+    "ESPN": 73,
+    "Avg": 83.3
+  },
+  {
+    "Rank": 85,
+    "Name": "Damien Harris",
+    "Position": "RB",
+    "Sleeper": 79,
+    "RTS": 85,
+    "ESPN": 91,
+    "Avg": 85
+  },
+  {
+    "Rank": 86,
+    "Name": "Dak Prescott",
+    "Position": "QB",
+    "Sleeper": 91,
+    "RTS": 91,
+    "ESPN": 74,
+    "Avg": 85.3
+  },
+  {
+    "Rank": 87,
+    "Name": "Aaron Rodgers",
+    "Position": "QB",
+    "Sleeper": 89,
+    "RTS": 101,
+    "ESPN": 68,
+    "Avg": 86
+  },
+  {
+    "Rank": 88,
+    "Name": "Rhamondre Stevenson",
+    "Position": "RB",
+    "Sleeper": 102,
+    "RTS": 67,
+    "ESPN": 90,
+    "Avg": 86.3
+  },
+  {
+    "Rank": 89,
+    "Name": "DeAndre Hopkins",
+    "Position": "WR",
+    "Sleeper": 78,
+    "RTS": 88,
+    "ESPN": 99,
+    "Avg": 88.3
+  },
+  {
+    "Rank": 90,
+    "Name": "DeVonta Smith",
+    "Position": "WR",
+    "Sleeper": 86,
+    "RTS": 94,
+    "ESPN": 85,
+    "Avg": 88.3
+  },
+  {
+    "Rank": 91,
+    "Name": "Rashaad Penny",
+    "Position": "RB",
+    "Sleeper": 95,
+    "RTS": 65,
+    "ESPN": 106,
+    "Avg": 88.7
+  },
+  {
+    "Rank": 92,
+    "Name": "Zach Ertz",
+    "Position": "TE",
+    "Sleeper": 84,
+    "RTS": 100,
+    "ESPN": 86,
+    "Avg": 90
+  },
+  {
+    "Rank": 93,
+    "Name": "Elijah Moore",
+    "Position": "WR",
+    "Sleeper": 92,
+    "RTS": 86,
+    "ESPN": 93,
+    "Avg": 90.3
+  },
+  {
+    "Rank": 94,
+    "Name": "Allen Lazard",
+    "Position": "WR",
+    "Sleeper": 93,
+    "RTS": 87,
+    "ESPN": 95,
+    "Avg": 91.7
+  },
+  {
+    "Rank": 95,
+    "Name": "Christian Kirk",
+    "Position": "WR",
+    "Sleeper": 106,
+    "RTS": 90,
+    "ESPN": 83,
+    "Avg": 93
+  },
+  {
+    "Rank": 96,
+    "Name": "Drake London",
+    "Position": "WR",
+    "Sleeper": 88,
+    "RTS": 99,
+    "ESPN": 96,
+    "Avg": 94.3
+  },
+  {
+    "Rank": 97,
+    "Name": "Dawson Knox",
+    "Position": "TE",
+    "Sleeper": 85,
+    "RTS": 103,
+    "ESPN": 105,
+    "Avg": 97.7
+  },
+  {
+    "Rank": 98,
+    "Name": "Brandon Aiyuk",
+    "Position": "WR",
+    "Sleeper": 97,
+    "RTS": 97,
+    "ESPN": 102,
+    "Avg": 98.7
+  },
+  {
+    "Rank": 99,
+    "Name": "Tyler Lockett",
+    "Position": "WR",
+    "Sleeper": 99,
+    "RTS": 114,
+    "ESPN": 88,
+    "Avg": 100.3
+  },
+  {
+    "Rank": 100,
+    "Name": "Matthew Stafford",
+    "Position": "QB",
+    "Sleeper": 100,
+    "RTS": 108,
+    "ESPN": 94,
+    "Avg": 100.7
+  },
+  {
+    "Rank": 101,
+    "Name": "Buffalo Bills",
+    "Position": "Def",
+    "Sleeper": 96,
+    "RTS": 130,
+    "ESPN": 79,
+    "Avg": 101.7
+  },
+  {
+    "Rank": 102,
+    "Name": "Robert Woods",
+    "Position": "WR",
+    "Sleeper": 110,
+    "RTS": 93,
+    "ESPN": 110,
+    "Avg": 104.3
+  },
+  {
+    "Rank": 103,
+    "Name": "Chris Olave",
+    "Position": "WR",
+    "Sleeper": 101,
+    "RTS": 105,
+    "ESPN": 109,
+    "Avg": 105
+  },
+  {
+    "Rank": 104,
+    "Name": "Trey Lance",
+    "Position": "QB",
+    "Sleeper": 107,
+    "RTS": 109,
+    "ESPN": 104,
+    "Avg": 106.7
+  },
+  {
+    "Rank": 105,
+    "Name": "Kenneth Walker II",
+    "Position": "RB",
+    "Sleeper": 94,
+    "RTS": 98,
+    "ESPN": 128,
+    "Avg": 106.7
+  },
+  {
+    "Rank": 106,
+    "Name": "Melvin Gordon III",
+    "Position": "RB",
+    "Sleeper": 109,
+    "RTS": 92,
+    "ESPN": 120,
+    "Avg": 107
+  },
+  {
+    "Rank": 107,
+    "Name": "James Cook",
+    "Position": "RB",
+    "Sleeper": 103,
+    "RTS": 96,
+    "ESPN": 122,
+    "Avg": 107
+  },
+  {
+    "Rank": 108,
+    "Name": "Pat Freiermuth",
+    "Position": "TE",
+    "Sleeper": 105,
+    "RTS": 110,
+    "ESPN": 107,
+    "Avg": 107.3
+  },
+  {
+    "Rank": 109,
+    "Name": "Derek Carr",
+    "Position": "QB",
+    "Sleeper": 115,
+    "RTS": 113,
+    "ESPN": 113,
+    "Avg": 113.7
+  },
+  {
+    "Rank": 110,
+    "Name": "Chase Claypool",
+    "Position": "WR",
+    "Sleeper": 114,
+    "RTS": 122,
+    "ESPN": 108,
+    "Avg": 114.7
+  },
+  {
+    "Rank": 111,
+    "Name": "James Robinson",
+    "Position": "RB",
+    "Sleeper": 122,
+    "RTS": 102,
+    "ESPN": 121,
+    "Avg": 115
+  },
+  {
+    "Rank": 112,
+    "Name": "Kadarius Toney",
+    "Position": "WR",
+    "Sleeper": 116,
+    "RTS": 118,
+    "ESPN": 112,
+    "Avg": 115.3
+  },
+  {
+    "Rank": 113,
+    "Name": "Cole Kmet",
+    "Position": "TE",
+    "Sleeper": 117,
+    "RTS": 115,
+    "ESPN": 115,
+    "Avg": 115.7
+  },
+  {
+    "Rank": 114,
+    "Name": "Michael Carter",
+    "Position": "RB",
+    "Sleeper": 119,
+    "RTS": 106,
+    "ESPN": 130,
+    "Avg": 118.3
+  },
+  {
+    "Rank": 115,
+    "Name": "Tampa Bay",
+    "Position": "Def",
+    "Sleeper": 111,
+    "RTS": 137,
+    "ESPN": 111,
+    "Avg": 119.7
+  },
+  {
+    "Rank": 116,
+    "Name": "Justin Tucker",
+    "Position": "K",
+    "Sleeper": 132,
+    "RTS": 139,
+    "ESPN": 89,
+    "Avg": 120
+  },
+  {
+    "Rank": 117,
+    "Name": "Treylon Burks",
+    "Position": "WR",
+    "Sleeper": 104,
+    "RTS": 120,
+    "ESPN": 137,
+    "Avg": 120.3
+  },
+  {
+    "Rank": 118,
+    "Name": "George Pickens",
+    "Position": "WR",
+    "Sleeper": 112,
+    "RTS": 107,
+    "ESPN": 143,
+    "Avg": 120.7
+  },
+  {
+    "Rank": 119,
+    "Name": "Kirk Cousins",
+    "Position": "QB",
+    "Sleeper": 130,
+    "RTS": 112,
+    "ESPN": 125,
+    "Avg": 122.3
+  },
+  {
+    "Rank": 120,
+    "Name": "Nyheim Hines",
+    "Position": "RB",
+    "Sleeper": 127,
+    "RTS": 116,
+    "ESPN": 133,
+    "Avg": 125.3
+  },
+  {
+    "Rank": 121,
+    "Name": "Skyy Moore",
+    "Position": "WR",
+    "Sleeper": 120,
+    "RTS": 125,
+    "ESPN": 134,
+    "Avg": 126.3
+  },
+  {
+    "Rank": 122,
+    "Name": "Hunter Henry",
+    "Position": "TE",
+    "Sleeper": 141,
+    "RTS": 127,
+    "ESPN": 116,
+    "Avg": 128
+  },
+  {
+    "Rank": 123,
+    "Name": "Tyler Boyd",
+    "Position": "WR",
+    "Sleeper": 125,
+    "RTS": 134,
+    "ESPN": 126,
+    "Avg": 128.3
+  },
+  {
+    "Rank": 124,
+    "Name": "Evan McPherson",
+    "Position": "K",
+    "Sleeper": 133,
+    "RTS": 152,
+    "ESPN": 101,
+    "Avg": 128.7
+  },
+  {
+    "Rank": 125,
+    "Name": "Mike Gesicki",
+    "Position": "TE",
+    "Sleeper": 113,
+    "RTS": 147,
+    "ESPN": 127,
+    "Avg": 129
+  },
+  {
+    "Rank": 126,
+    "Name": "San Francisco 49ers",
+    "Position": "Def",
+    "Sleeper": 124,
+    "RTS": 144,
+    "ESPN": 123,
+    "Avg": 130.3
+  },
+  {
+    "Rank": 127,
+    "Name": "Darrell Henderson",
+    "Position": "RB",
+    "Sleeper": 128,
+    "RTS": 104,
+    "ESPN": 159,
+    "Avg": 130.3
+  },
+  {
+    "Rank": 128,
+    "Name": "Garrett Wilson",
+    "Position": "WR",
+    "Sleeper": 118,
+    "RTS": 155,
+    "ESPN": 119,
+    "Avg": 130.7
+  },
+  {
+    "Rank": 129,
+    "Name": "Alexander Mattison",
+    "Position": "RB",
+    "Sleeper": 123,
+    "RTS": 119,
+    "ESPN": 152,
+    "Avg": 131.3
+  },
+  {
+    "Rank": 130,
+    "Name": "Matt Gay",
+    "Position": "K",
+    "Sleeper": 136,
+    "RTS": 162,
+    "ESPN": 114,
+    "Avg": 137.3
+  },
+  {
+    "Rank": 131,
+    "Name": "Tua Tagovailoa",
+    "Position": "QB",
+    "Sleeper": 146,
+    "RTS": 132,
+    "ESPN": 135,
+    "Avg": 137.7
+  },
+  {
+    "Rank": 132,
+    "Name": "Daniel Carlson",
+    "Position": "K",
+    "Sleeper": 135,
+    "RTS": 150,
+    "ESPN": 129,
+    "Avg": 138
+  },
+  {
+    "Rank": 133,
+    "Name": "New Orleans Saints",
+    "Position": "Def",
+    "Sleeper": 143,
+    "RTS": 172,
+    "ESPN": 100,
+    "Avg": 138.3
+  },
+  {
+    "Rank": 134,
+    "Name": "Harrison Butker",
+    "Position": "K",
+    "Sleeper": 134,
+    "RTS": 169,
+    "ESPN": 117,
+    "Avg": 140
+  },
+  {
+    "Rank": 135,
+    "Name": "Michael Gallup",
+    "Position": "WR",
+    "Sleeper": 142,
+    "RTS": 124,
+    "ESPN": 155,
+    "Avg": 140.3
+  },
+  {
+    "Rank": 136,
+    "Name": "Marquez Valdes-Scantling",
+    "Position": "WR",
+    "Sleeper": 137,
+    "RTS": 160,
+    "ESPN": 124,
+    "Avg": 140.3
+  },
+  {
+    "Rank": 137,
+    "Name": "Julio Jones",
+    "Position": "WR",
+    "Sleeper": 121,
+    "RTS": 142,
+    "ESPN": 160,
+    "Avg": 141
+  },
+  {
+    "Rank": 138,
+    "Name": "Kenneth Gainwell",
+    "Position": "RB",
+    "Sleeper": 144,
+    "RTS": 111,
+    "ESPN": 171,
+    "Avg": 142
+  },
+  {
+    "Rank": 139,
+    "Name": "Jarvis Landry",
+    "Position": "WR",
+    "Sleeper": 140,
+    "RTS": 145,
+    "ESPN": 145,
+    "Avg": 143.3
+  },
+  {
+    "Rank": 140,
+    "Name": "Indianapolis Colts",
+    "Position": "Def",
+    "Sleeper": 149,
+    "RTS": 146,
+    "ESPN": 136,
+    "Avg": 143.7
+  },
+  {
+    "Rank": 141,
+    "Name": "Russell Gage",
+    "Position": "WR",
+    "Sleeper": 153,
+    "RTS": 141,
+    "ESPN": 138,
+    "Avg": 144
+  },
+  {
+    "Rank": 142,
+    "Name": "Los Angeles Rams",
+    "Position": "Def",
+    "Sleeper": 108,
+    "RTS": 164,
+    "ESPN": 161,
+    "Avg": 144.3
+  },
+  {
+    "Rank": 143,
+    "Name": "Green Bay Packers",
+    "Position": "Def",
+    "Sleeper": 148,
+    "RTS": 187,
+    "ESPN": 103,
+    "Avg": 146
+  },
+  {
+    "Rank": 144,
+    "Name": "Jakobi Meyers",
+    "Position": "WR",
+    "Sleeper": 171,
+    "RTS": 135,
+    "ESPN": 132,
+    "Avg": 146
+  },
+  {
+    "Rank": 145,
+    "Name": "Tyler Bass",
+    "Position": "K",
+    "Sleeper": 138,
+    "RTS": 159,
+    "ESPN": 144,
+    "Avg": 147
+  },
+  {
+    "Rank": 146,
+    "Name": "Justin Fields",
+    "Position": "QB",
+    "Sleeper": 159,
+    "RTS": 136,
+    "ESPN": 148,
+    "Avg": 147.7
+  },
+  {
+    "Rank": 147,
+    "Name": "Raheem Mostert",
+    "Position": "RB",
+    "Sleeper": 187,
+    "RTS": 117,
+    "ESPN": 141,
+    "Avg": 148.3
+  },
+  {
+    "Rank": 148,
+    "Name": "Brian Robinson Jr.",
+    "Position": "RB",
+    "Sleeper": 156,
+    "RTS": 138,
+    "ESPN": 154,
+    "Avg": 149.3
+  },
+  {
+    "Rank": 149,
+    "Name": "Dallas Cowboys",
+    "Position": "Def",
+    "Sleeper": 139,
+    "RTS": 180,
+    "ESPN": 131,
+    "Avg": 150
+  },
+  {
+    "Rank": 150,
+    "Name": "Trevor Lawrence",
+    "Position": "QB",
+    "Sleeper": 168,
+    "RTS": 140,
+    "ESPN": 142,
+    "Avg": 150
+  },
+  {
+    "Rank": 151,
+    "Name": "D.J. Chark Jr.",
+    "Position": "WR",
+    "Sleeper": 173,
+    "RTS": 133,
+    "ESPN": 149,
+    "Avg": 151.7
+  },
+  {
+    "Rank": 152,
+    "Name": "J.D. McKissic",
+    "Position": "RB",
+    "Sleeper": 172,
+    "RTS": 121,
+    "ESPN": 163,
+    "Avg": 152
+  },
+  {
+    "Rank": 153,
+    "Name": "Jahan Dotson",
+    "Position": "WR",
+    "Sleeper": 162,
+    "RTS": 148,
+    "ESPN": 146,
+    "Avg": 152
+  },
+  {
+    "Rank": 154,
+    "Name": "Irv Smith Jr.",
+    "Position": "TE",
+    "Sleeper": 170,
+    "RTS": 131,
+    "ESPN": 162,
+    "Avg": 154.3
+  },
+  {
+    "Rank": 155,
+    "Name": "David Njoku",
+    "Position": "TE",
+    "Sleeper": 157,
+    "RTS": 154,
+    "ESPN": 156,
+    "Avg": 155.7
+  },
+  {
+    "Rank": 156,
+    "Name": "Tyler Allgeier",
+    "Position": "RB",
+    "Sleeper": 163,
+    "RTS": 126,
+    "ESPN": 184,
+    "Avg": 157.7
+  },
+  {
+    "Rank": 157,
+    "Name": "Jamaal Williams",
+    "Position": "RB",
+    "Sleeper": 177,
+    "RTS": 128,
+    "ESPN": 168,
+    "Avg": 157.7
+  },
+  {
+    "Rank": 158,
+    "Name": "Isaiah Spiller",
+    "Position": "RB",
+    "Sleeper": 154,
+    "RTS": 165,
+    "ESPN": "",
+    "Avg": 159.5
+  },
+  {
+    "Rank": 159,
+    "Name": "Baltimore Ravens",
+    "Position": "Def",
+    "Sleeper": 126,
+    "RTS": 235,
+    "ESPN": 118,
+    "Avg": 159.7
+  },
+  {
+    "Rank": 160,
+    "Name": "Khalil Herbert",
+    "Position": "RB",
+    "Sleeper": 165,
+    "RTS": 129,
+    "ESPN": 185,
+    "Avg": 159.7
+  },
+  {
+    "Rank": 161,
+    "Name": "Los Angeles Chargers",
+    "Position": "Def",
+    "Sleeper": 129,
+    "RTS": 203,
+    "ESPN": 150,
+    "Avg": 160.7
+  },
+  {
+    "Rank": 162,
+    "Name": "Jameis Winston",
+    "Position": "QB",
+    "Sleeper": 167,
+    "RTS": 149,
+    "ESPN": 166,
+    "Avg": 160.7
+  },
+  {
+    "Rank": 163,
+    "Name": "DeVante Parker",
+    "Position": "WR",
+    "Sleeper": 151,
+    "RTS": 166,
+    "ESPN": 165,
+    "Avg": 160.7
+  },
+  {
+    "Rank": 164,
+    "Name": "Zamir White",
+    "Position": "RB",
+    "Sleeper": 179,
+    "RTS": 143,
+    "ESPN": "",
+    "Avg": 161
+  },
+  {
+    "Rank": 165,
+    "Name": "Matt Prater",
+    "Position": "K",
+    "Sleeper": 145,
+    "RTS": 186,
+    "ESPN": 157,
+    "Avg": 162.7
+  },
+  {
+    "Rank": 166,
+    "Name": "Noah Fant",
+    "Position": "TE",
+    "Sleeper": 192,
+    "RTS": 153,
+    "ESPN": 151,
+    "Avg": 165.3
+  },
+  {
+    "Rank": 167,
+    "Name": "Albert Okwuegbunam",
+    "Position": "TE",
+    "Sleeper": 131,
+    "RTS": 176,
+    "ESPN": 192,
+    "Avg": 166.3
+  },
+  {
+    "Rank": 168,
+    "Name": "Tyler Higbee",
+    "Position": "TE",
+    "Sleeper": 147,
+    "RTS": 199,
+    "ESPN": 153,
+    "Avg": 166.3
+  },
+  {
+    "Rank": 169,
+    "Name": "Rachaad White",
+    "Position": "RB",
+    "Sleeper": 160,
+    "RTS": 123,
+    "ESPN": 218,
+    "Avg": 167
+  },
+  {
+    "Rank": 170,
+    "Name": "Romeo Doubs",
+    "Position": "WR",
+    "Sleeper": 155,
+    "RTS": 161,
+    "ESPN": 188,
+    "Avg": 168
+  },
+  {
+    "Rank": 171,
+    "Name": "Brandon McManus",
+    "Position": "K",
+    "Sleeper": 150,
+    "RTS": 221,
+    "ESPN": 139,
+    "Avg": 170
+  },
+  {
+    "Rank": 172,
+    "Name": "Mike Davis",
+    "Position": "RB",
+    "Sleeper": "",
+    "RTS": 170,
+    "ESPN": "",
+    "Avg": 170
+  },
+  {
+    "Rank": 173,
+    "Name": "Rondale Moore",
+    "Position": "WR",
+    "Sleeper": 158,
+    "RTS": 163,
+    "ESPN": 189,
+    "Avg": 170
+  },
+  {
+    "Rank": 174,
+    "Name": "Matt Ryan",
+    "Position": "QB",
+    "Sleeper": 185,
+    "RTS": 156,
+    "ESPN": 170,
+    "Avg": 170.3
+  },
+  {
+    "Rank": 175,
+    "Name": "Denver Broncos",
+    "Position": "Def",
+    "Sleeper": 161,
+    "RTS": 177,
+    "ESPN": 194,
+    "Avg": 177.3
+  },
+  {
+    "Rank": 176,
+    "Name": "Mecole Hardman Jr.",
+    "Position": "WR",
+    "Sleeper": 188,
+    "RTS": 167,
+    "ESPN": 178,
+    "Avg": 177.7
+  },
+  {
+    "Rank": 177,
+    "Name": "Jeff Wilson Jr.",
+    "Position": "RB",
+    "Sleeper": "",
+    "RTS": 178,
+    "ESPN": "",
+    "Avg": 178
+  },
+  {
+    "Rank": 178,
+    "Name": "Robert Tonyan",
+    "Position": "TE",
+    "Sleeper": 180,
+    "RTS": 151,
+    "ESPN": 203,
+    "Avg": 178
+  },
+  {
+    "Rank": 179,
+    "Name": "Mark Ingram II",
+    "Position": "RB",
+    "Sleeper": 164,
+    "RTS": 173,
+    "ESPN": 202,
+    "Avg": 179.7
+  },
+  {
+    "Rank": 180,
+    "Name": "Josh Palmer",
+    "Position": "WR",
+    "Sleeper": 205,
+    "RTS": 171,
+    "ESPN": 164,
+    "Avg": 180
+  },
+  {
+    "Rank": 181,
+    "Name": "Isaiah McKenzie",
+    "Position": "WR",
+    "Sleeper": 174,
+    "RTS": 158,
+    "ESPN": 214,
+    "Avg": 182
+  },
+  {
+    "Rank": 182,
+    "Name": "Nick Folk",
+    "Position": "K",
+    "Sleeper": 166,
+    "RTS": 241,
+    "ESPN": 140,
+    "Avg": 182.3
+  },
+  {
+    "Rank": 183,
+    "Name": "Pittsburgh Steelers",
+    "Position": "Def",
+    "Sleeper": 176,
+    "RTS": 229,
+    "ESPN": 147,
+    "Avg": 184
+  },
+  {
+    "Rank": 184,
+    "Name": "New England Patriots",
+    "Position": "Def",
+    "Sleeper": 181,
+    "RTS": 192,
+    "ESPN": 181,
+    "Avg": 184.7
+  },
+  {
+    "Rank": 185,
+    "Name": "Alec Pierce",
+    "Position": "WR",
+    "Sleeper": 197,
+    "RTS": 174,
+    "ESPN": "",
+    "Avg": 185.5
+  },
+  {
+    "Rank": 186,
+    "Name": "Darrel Williams",
+    "Position": "RB",
+    "Sleeper": 218,
+    "RTS": 157,
+    "ESPN": "",
+    "Avg": 187.5
+  },
+  {
+    "Rank": 187,
+    "Name": "D'Onta Foreman",
+    "Position": "RB",
+    "Sleeper": 211,
+    "RTS": 168,
+    "ESPN": "",
+    "Avg": 189.5
+  },
+  {
+    "Rank": 188,
+    "Name": "Jameson Williams",
+    "Position": "WR",
+    "Sleeper": 186,
+    "RTS": 194,
+    "ESPN": "",
+    "Avg": 190
+  },
+  {
+    "Rank": 189,
+    "Name": "Kenny Golladay",
+    "Position": "WR",
+    "Sleeper": 191,
+    "RTS": 208,
+    "ESPN": 172,
+    "Avg": 190.3
+  },
+  {
+    "Rank": 190,
+    "Name": "Ryan Tannehill",
+    "Position": "QB",
+    "Sleeper": 215,
+    "RTS": 181,
+    "ESPN": 177,
+    "Avg": 191
+  },
+  {
+    "Rank": 191,
+    "Name": "Baker Mayfield",
+    "Position": "QB",
+    "Sleeper": 202,
+    "RTS": 198,
+    "ESPN": 174,
+    "Avg": 191.3
+  },
+  {
+    "Rank": 192,
+    "Name": "Mac Jones",
+    "Position": "QB",
+    "Sleeper": 184,
+    "RTS": 216,
+    "ESPN": 176,
+    "Avg": 192
+  },
+  {
+    "Rank": 193,
+    "Name": "Chuba Hubbard",
+    "Position": "RB",
+    "Sleeper": 189,
+    "RTS": 196,
+    "ESPN": "",
+    "Avg": 192.5
+  },
+  {
+    "Rank": 194,
+    "Name": "Jalen Tolbert",
+    "Position": "WR",
+    "Sleeper": 190,
+    "RTS": 197,
+    "ESPN": 193,
+    "Avg": 193.3
+  },
+  {
+    "Rank": 195,
+    "Name": "Younghoe Koo",
+    "Position": "K",
+    "Sleeper": 152,
+    "RTS": 250,
+    "ESPN": 180,
+    "Avg": 194
+  },
+  {
+    "Rank": 196,
+    "Name": "Christian Watson",
+    "Position": "WR",
+    "Sleeper": 169,
+    "RTS": 220,
+    "ESPN": "",
+    "Avg": 194.5
+  },
+  {
+    "Rank": 197,
+    "Name": "Carson Wentz",
+    "Position": "QB",
+    "Sleeper": "",
+    "RTS": 207,
+    "ESPN": 183,
+    "Avg": 195
+  },
+  {
+    "Rank": 198,
+    "Name": "Ronald Jones II",
+    "Position": "RB",
+    "Sleeper": 195,
+    "RTS": 195,
+    "ESPN": "",
+    "Avg": 195
+  },
+  {
+    "Rank": 199,
+    "Name": "Wan'Dale Robinson",
+    "Position": "WR",
+    "Sleeper": 207,
+    "RTS": 183,
+    "ESPN": "",
+    "Avg": 195
+  },
+  {
+    "Rank": 200,
+    "Name": "Robbie Chosen",
+    "Position": "WR",
+    "Sleeper": 217,
+    "RTS": 201,
+    "ESPN": 167,
+    "Avg": 195
+  },
+  {
+    "Rank": 201,
+    "Name": "Hayden Hurst",
+    "Position": "TE",
+    "Sleeper": 212,
+    "RTS": 188,
+    "ESPN": 187,
+    "Avg": 195.7
+  },
+  {
+    "Rank": 202,
+    "Name": "Nico Collins",
+    "Position": "WR",
+    "Sleeper": 203,
+    "RTS": 175,
+    "ESPN": 209,
+    "Avg": 195.7
+  },
+  {
+    "Rank": 203,
+    "Name": "Gerald Everett",
+    "Position": "TE",
+    "Sleeper": 194,
+    "RTS": 182,
+    "ESPN": 213,
+    "Avg": 196.3
+  },
+  {
+    "Rank": 204,
+    "Name": "Kansas City Chiefs",
+    "Position": "Def",
+    "Sleeper": "",
+    "RTS": 189,
+    "ESPN": 205,
+    "Avg": 197
+  },
+  {
+    "Rank": 205,
+    "Name": "Odell Beckham Jr.",
+    "Position": "WR",
+    "Sleeper": 196,
+    "RTS": 191,
+    "ESPN": 210,
+    "Avg": 199
+  },
+  {
+    "Rank": 206,
+    "Name": "Miami Dolphins",
+    "Position": "Def",
+    "Sleeper": 221,
+    "RTS": 210,
+    "ESPN": 169,
+    "Avg": 200
+  },
+  {
+    "Rank": 207,
+    "Name": "Evan Engram",
+    "Position": "TE",
+    "Sleeper": 216,
+    "RTS": 190,
+    "ESPN": 195,
+    "Avg": 200.3
+  },
+  {
+    "Rank": 208,
+    "Name": "Greg Joseph",
+    "Position": "K",
+    "Sleeper": "",
+    "RTS": 219,
+    "ESPN": 182,
+    "Avg": 200.5
+  },
+  {
+    "Rank": 209,
+    "Name": "Austin Hooper",
+    "Position": "TE",
+    "Sleeper": 206,
+    "RTS": 202,
+    "ESPN": 200,
+    "Avg": 202.7
+  },
+  {
+    "Rank": 210,
+    "Name": "Marvin Jones Jr.",
+    "Position": "WR",
+    "Sleeper": 228,
+    "RTS": 224,
+    "ESPN": 158,
+    "Avg": 203.3
+  },
+  {
+    "Rank": 211,
+    "Name": "Tyrion Davis-Price",
+    "Position": "RB",
+    "Sleeper": 214,
+    "RTS": 193,
+    "ESPN": "",
+    "Avg": 203.5
+  },
+  {
+    "Rank": 212,
+    "Name": "Philadelphia Eagles",
+    "Position": "Def",
+    "Sleeper": 199,
+    "RTS": 237,
+    "ESPN": 179,
+    "Avg": 205
+  },
+  {
+    "Rank": 213,
+    "Name": "Ameer Abdullah",
+    "Position": "RB",
+    "Sleeper": "",
+    "RTS": 205,
+    "ESPN": "",
+    "Avg": 205
+  },
+  {
+    "Rank": 214,
+    "Name": "Ryan Succop",
+    "Position": "K",
+    "Sleeper": 198,
+    "RTS": 226,
+    "ESPN": 197,
+    "Avg": 207
+  },
+  {
+    "Rank": 215,
+    "Name": "Sammy Watkins",
+    "Position": "WR",
+    "Sleeper": 183,
+    "RTS": 231,
+    "ESPN": "",
+    "Avg": 207
+  },
+  {
+    "Rank": 216,
+    "Name": "Cleveland Browns",
+    "Position": "Def",
+    "Sleeper": 200,
+    "RTS": 225,
+    "ESPN": 198,
+    "Avg": 207.7
+  },
+  {
+    "Rank": 217,
+    "Name": "Jared Goff",
+    "Position": "QB",
+    "Sleeper": 237,
+    "RTS": 184,
+    "ESPN": 208,
+    "Avg": 209.7
+  },
+  {
+    "Rank": 218,
+    "Name": "Kenyan Drake",
+    "Position": "RB",
+    "Sleeper": 229,
+    "RTS": 179,
+    "ESPN": 221,
+    "Avg": 209.7
+  },
+  {
+    "Rank": 219,
+    "Name": "Deshaun Watson",
+    "Position": "QB",
+    "Sleeper": 193,
+    "RTS": 238,
+    "ESPN": 201,
+    "Avg": 210.7
+  },
+  {
+    "Rank": 220,
+    "Name": "Washington",
+    "Position": "Def",
+    "Sleeper": "",
+    "RTS": 249,
+    "ESPN": 173,
+    "Avg": 211
+  },
+  {
+    "Rank": 221,
+    "Name": "Corey Davis",
+    "Position": "WR",
+    "Sleeper": "",
+    "RTS": 211,
+    "ESPN": "",
+    "Avg": 211
+  },
+  {
+    "Rank": 222,
+    "Name": "Rodrigo Blankenship",
+    "Position": "K",
+    "Sleeper": 178,
+    "RTS": 244,
+    "ESPN": 212,
+    "Avg": 211.3
+  },
+  {
+    "Rank": 223,
+    "Name": "Wil Lutz",
+    "Position": "K",
+    "Sleeper": 201,
+    "RTS": 223,
+    "ESPN": 211,
+    "Avg": 211.7
+  },
+  {
+    "Rank": 224,
+    "Name": "Trey Sermon",
+    "Position": "RB",
+    "Sleeper": "",
+    "RTS": 212,
+    "ESPN": "",
+    "Avg": 212
+  },
+  {
+    "Rank": 225,
+    "Name": "Daniel Jones",
+    "Position": "QB",
+    "Sleeper": 236,
+    "RTS": 213,
+    "ESPN": 190,
+    "Avg": 213
+  },
+  {
+    "Rank": 226,
+    "Name": "Logan Thomas",
+    "Position": "TE",
+    "Sleeper": 241,
+    "RTS": 185,
+    "ESPN": "",
+    "Avg": 213
+  },
+  {
+    "Rank": 227,
+    "Name": "Isaiah Likely",
+    "Position": "TE",
+    "Sleeper": "",
+    "RTS": 209,
+    "ESPN": 217,
+    "Avg": 213
+  },
+  {
+    "Rank": 228,
+    "Name": "Eno Benjamin",
+    "Position": "RB",
+    "Sleeper": 226,
+    "RTS": 204,
+    "ESPN": "",
+    "Avg": 215
+  },
+  {
+    "Rank": 229,
+    "Name": "Cincinnati Bengals",
+    "Position": "Def",
+    "Sleeper": 223,
+    "RTS": 251,
+    "ESPN": 175,
+    "Avg": 216.3
+  },
+  {
+    "Rank": 230,
+    "Name": "Dontrell Hilliard",
+    "Position": "RB",
+    "Sleeper": 227,
+    "RTS": 206,
+    "ESPN": "",
+    "Avg": 216.5
+  },
+  {
+    "Rank": 231,
+    "Name": "Chris Boswell",
+    "Position": "K",
+    "Sleeper": "",
+    "RTS": 236,
+    "ESPN": 199,
+    "Avg": 217.5
+  },
+  {
+    "Rank": 232,
+    "Name": "K.J. Osborn",
+    "Position": "WR",
+    "Sleeper": 208,
+    "RTS": 228,
+    "ESPN": "",
+    "Avg": 218
+  },
+  {
+    "Rank": 233,
+    "Name": "Gus Edwards",
+    "Position": "RB",
+    "Sleeper": 220,
+    "RTS": 218,
+    "ESPN": "",
+    "Avg": 219
+  },
+  {
+    "Rank": 234,
+    "Name": "Parris Campbell",
+    "Position": "WR",
+    "Sleeper": 238,
+    "RTS": 200,
+    "ESPN": "",
+    "Avg": 219
+  },
+  {
+    "Rank": 235,
+    "Name": "Jerick McKinnon",
+    "Position": "RB",
+    "Sleeper": 225,
+    "RTS": 217,
+    "ESPN": "",
+    "Avg": 221
+  },
+  {
+    "Rank": 236,
+    "Name": "Davis Mills",
+    "Position": "QB",
+    "Sleeper": "",
+    "RTS": 222,
+    "ESPN": "",
+    "Avg": 222
+  },
+  {
+    "Rank": 237,
+    "Name": "KJ Hamler",
+    "Position": "WR",
+    "Sleeper": 210,
+    "RTS": 234,
+    "ESPN": "",
+    "Avg": 222
+  },
+  {
+    "Rank": 238,
+    "Name": "Cameron Brate",
+    "Position": "TE",
+    "Sleeper": 233,
+    "RTS": 215,
+    "ESPN": "",
+    "Avg": 224
+  },
+  {
+    "Rank": 239,
+    "Name": "Jake Elliott",
+    "Position": "K",
+    "Sleeper": "",
+    "RTS": 239,
+    "ESPN": 215,
+    "Avg": 227
+  },
+  {
+    "Rank": 240,
+    "Name": "Boston Scott",
+    "Position": "RB",
+    "Sleeper": "",
+    "RTS": 227,
+    "ESPN": "",
+    "Avg": 227
+  },
+  {
+    "Rank": 241,
+    "Name": "Taysom Hill",
+    "Position": "TE",
+    "Sleeper": 209,
+    "RTS": 245,
+    "ESPN": "",
+    "Avg": 227
+  },
+  {
+    "Rank": 242,
+    "Name": "Cade York",
+    "Position": "K",
+    "Sleeper": "",
+    "RTS": 252,
+    "ESPN": 204,
+    "Avg": 228
+  },
+  {
+    "Rank": 243,
+    "Name": "Sony Michel",
+    "Position": "RB",
+    "Sleeper": 242,
+    "RTS": 214,
+    "ESPN": "",
+    "Avg": 228
+  },
+  {
+    "Rank": 244,
+    "Name": "Dustin Hopkins",
+    "Position": "K",
+    "Sleeper": "",
+    "RTS": 230,
+    "ESPN": "",
+    "Avg": 230
+  },
+  {
+    "Rank": 245,
+    "Name": "Van Jefferson",
+    "Position": "WR",
+    "Sleeper": 219,
+    "RTS": 242,
+    "ESPN": "",
+    "Avg": 230.5
+  },
+  {
+    "Rank": 246,
+    "Name": "Minnesota Vikings",
+    "Position": "Def",
+    "Sleeper": "",
+    "RTS": 243,
+    "ESPN": 219,
+    "Avg": 231
+  },
+  {
+    "Rank": 247,
+    "Name": "Marcus Mariota",
+    "Position": "QB",
+    "Sleeper": 231,
+    "RTS": 246,
+    "ESPN": 220,
+    "Avg": 232.3
+  },
+  {
+    "Rank": 248,
+    "Name": "Rex Burkhead",
+    "Position": "RB",
+    "Sleeper": "",
+    "RTS": 233,
+    "ESPN": "",
+    "Avg": 233
+  },
+  {
+    "Rank": 249,
+    "Name": "Donovan Peoples-Jones",
+    "Position": "WR",
+    "Sleeper": 235,
+    "RTS": 232,
+    "ESPN": "",
+    "Avg": 233.5
+  },
+  {
+    "Rank": 250,
+    "Name": "Tennessee",
+    "Position": "Def",
+    "Sleeper": 222,
+    "RTS": 247,
+    "ESPN": "",
+    "Avg": 234.5
+  },
+  {
+    "Rank": 251,
+    "Name": "Zach Wilson",
+    "Position": "QB",
+    "Sleeper": 234,
+    "RTS": 256,
+    "ESPN": 216,
+    "Avg": 235.3
+  },
+  {
+    "Rank": 252,
+    "Name": "Brevin Jordan",
+    "Position": "TE",
+    "Sleeper": 243,
+    "RTS": 240,
+    "ESPN": "",
+    "Avg": 241.5
+  },
+  {
+    "Rank": 253,
+    "Name": "Samaje Perine",
+    "Position": "RB",
+    "Sleeper": 232,
+    "RTS": 255,
+    "ESPN": "",
+    "Avg": 243.5
+  },
+  {
+    "Rank": 254,
+    "Name": "Hassan Haskins",
+    "Position": "RB",
+    "Sleeper": 240,
+    "RTS": 248,
+    "ESPN": "",
+    "Avg": 244
+  },
+  {
+    "Rank": 255,
+    "Name": "David Bell",
+    "Position": "WR",
+    "Sleeper": 239,
+    "RTS": 257,
+    "ESPN": "",
+    "Avg": 248
+  },
+  {
+    "Rank": 256,
+    "Name": "Kendrick Bourne",
+    "Position": "WR",
+    "Sleeper": 245,
+    "RTS": 253,
+    "ESPN": "",
+    "Avg": 249
+  },
+  {
+    "Rank": 257,
+    "Name": "Jason Sanders",
+    "Position": "K",
+    "Sleeper": "",
+    "RTS": 254,
+    "ESPN": "",
+    "Avg": 254
+  },
+  {
+    "Rank": 258,
+    "Name": "Zack Moss",
+    "Position": "RB",
+    "Sleeper": "",
+    "RTS": 258,
+    "ESPN": "",
+    "Avg": 258
+  }
+]

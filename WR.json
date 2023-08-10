@@ -1,0 +1,1752 @@
+[
+  {
+    "Rank": 6,
+    "Name": "Justin Jefferson",
+    "Position": "WR",
+    "PPG": 21.7,
+    "Season": 368.7
+  },
+  {
+    "Rank": 8,
+    "Name": "Tyreek Hill",
+    "Position": "WR",
+    "PPG": 20.1,
+    "Season": 341.2
+  },
+  {
+    "Rank": 9,
+    "Name": "Davante Adams",
+    "Position": "WR",
+    "PPG": 19.7,
+    "Season": 335.5
+  },
+  {
+    "Rank": 11,
+    "Name": "Stefon Diggs",
+    "Position": "WR",
+    "PPG": 18.9,
+    "Season": 321.2
+  },
+  {
+    "Rank": 18,
+    "Name": "CeeDee Lamb",
+    "Position": "WR",
+    "PPG": 17.7,
+    "Season": 301.6
+  },
+  {
+    "Rank": 19,
+    "Name": "A.J. Brown",
+    "Position": "WR",
+    "PPG": 17.6,
+    "Season": 299.6
+  },
+  {
+    "Rank": 26,
+    "Name": "Amon-Ra St. Brown",
+    "Position": "WR",
+    "PPG": 16.7,
+    "Season": 267.6
+  },
+  {
+    "Rank": 27,
+    "Name": "Jaylen Waddle",
+    "Position": "WR",
+    "PPG": 15.2,
+    "Season": 259.2
+  },
+  {
+    "Rank": 28,
+    "Name": "DeVonta Smith",
+    "Position": "WR",
+    "PPG": 15,
+    "Season": 254.6
+  },
+  {
+    "Rank": 33,
+    "Name": "Amari Cooper",
+    "Position": "WR",
+    "PPG": 14.5,
+    "Season": 247
+  },
+  {
+    "Rank": 35,
+    "Name": "Ja'Marr Chase",
+    "Position": "WR",
+    "PPG": 18.6,
+    "Season": 242.4
+  },
+  {
+    "Rank": 36,
+    "Name": "Christian Kirk",
+    "Position": "WR",
+    "PPG": 14.2,
+    "Season": 241.9
+  },
+  {
+    "Rank": 40,
+    "Name": "Tyler Lockett",
+    "Position": "WR",
+    "PPG": 14.8,
+    "Season": 237.3
+  },
+  {
+    "Rank": 43,
+    "Name": "Terry McLaurin",
+    "Position": "WR",
+    "PPG": 13.5,
+    "Season": 229
+  },
+  {
+    "Rank": 44,
+    "Name": "Brandon Aiyuk",
+    "Position": "WR",
+    "PPG": 13.4,
+    "Season": 227.8
+  },
+  {
+    "Rank": 46,
+    "Name": "DK Metcalf",
+    "Position": "WR",
+    "PPG": 13.3,
+    "Season": 226.8
+  },
+  {
+    "Rank": 48,
+    "Name": "Mike Evans",
+    "Position": "WR",
+    "PPG": 15,
+    "Season": 225.4
+  },
+  {
+    "Rank": 50,
+    "Name": "Tee Higgins",
+    "Position": "WR",
+    "PPG": 14.9,
+    "Season": 223.2
+  },
+  {
+    "Rank": 51,
+    "Name": "Chris Godwin",
+    "Position": "WR",
+    "PPG": 14.9,
+    "Season": 222.8
+  },
+  {
+    "Rank": 53,
+    "Name": "Michael Pittman Jr.",
+    "Position": "WR",
+    "PPG": 13.5,
+    "Season": 216.5
+  },
+  {
+    "Rank": 54,
+    "Name": "Garrett Wilson",
+    "Position": "WR",
+    "PPG": 12.7,
+    "Season": 215.7
+  },
+  {
+    "Rank": 61,
+    "Name": "Jerry Jeudy",
+    "Position": "WR",
+    "PPG": 13.6,
+    "Season": 204.2
+  },
+  {
+    "Rank": 63,
+    "Name": "Cooper Kupp",
+    "Position": "WR",
+    "PPG": 22.4,
+    "Season": 201.4
+  },
+  {
+    "Rank": 66,
+    "Name": "DJ Moore",
+    "Position": "WR",
+    "PPG": 11.7,
+    "Season": 199.1
+  },
+  {
+    "Rank": 67,
+    "Name": "Chris Olave",
+    "Position": "WR",
+    "PPG": 13.2,
+    "Season": 198.2
+  },
+  {
+    "Rank": 68,
+    "Name": "Zay Jones",
+    "Position": "WR",
+    "PPG": 12.4,
+    "Season": 198.1
+  },
+  {
+    "Rank": 75,
+    "Name": "JuJu Smith-Schuster",
+    "Position": "WR",
+    "PPG": 11.6,
+    "Season": 185.3
+  },
+  {
+    "Rank": 78,
+    "Name": "Diontae Johnson",
+    "Position": "WR",
+    "PPG": 10.6,
+    "Season": 180.7
+  },
+  {
+    "Rank": 79,
+    "Name": "Jakobi Meyers",
+    "Position": "WR",
+    "PPG": 12.9,
+    "Season": 180.3
+  },
+  {
+    "Rank": 80,
+    "Name": "Adam Thielen",
+    "Position": "WR",
+    "PPG": 10.6,
+    "Season": 180
+  },
+  {
+    "Rank": 81,
+    "Name": "Drake London",
+    "Position": "WR",
+    "PPG": 10.5,
+    "Season": 178.6
+  },
+  {
+    "Rank": 85,
+    "Name": "Mike Williams",
+    "Position": "WR",
+    "PPG": 13.6,
+    "Season": 176.5
+  },
+  {
+    "Rank": 86,
+    "Name": "Curtis Samuel",
+    "Position": "WR",
+    "PPG": 10.4,
+    "Season": 176.3
+  },
+  {
+    "Rank": 87,
+    "Name": "Tyler Boyd",
+    "Position": "WR",
+    "PPG": 10.3,
+    "Season": 175.5
+  },
+  {
+    "Rank": 88,
+    "Name": "Allen Lazard",
+    "Position": "WR",
+    "PPG": 11.7,
+    "Season": 174.8
+  },
+  {
+    "Rank": 90,
+    "Name": "Gabe Davis",
+    "Position": "WR",
+    "PPG": 11.4,
+    "Season": 171.6
+  },
+  {
+    "Rank": 92,
+    "Name": "Joshua Palmer",
+    "Position": "WR",
+    "PPG": 10.6,
+    "Season": 169.3
+  },
+  {
+    "Rank": 94,
+    "Name": "Deebo Samuel",
+    "Position": "WR",
+    "PPG": 13,
+    "Season": 168.4
+  },
+  {
+    "Rank": 99,
+    "Name": "Donovan Peoples-Jones",
+    "Position": "WR",
+    "PPG": 9.8,
+    "Season": 167.1
+  },
+  {
+    "Rank": 100,
+    "Name": "George Pickens",
+    "Position": "WR",
+    "PPG": 9.8,
+    "Season": 166.5
+  },
+  {
+    "Rank": 103,
+    "Name": "Christian Watson",
+    "Position": "WR",
+    "PPG": 11.7,
+    "Season": 164.1
+  },
+  {
+    "Rank": 104,
+    "Name": "Keenan Allen",
+    "Position": "WR",
+    "PPG": 16.4,
+    "Season": 164
+  },
+  {
+    "Rank": 109,
+    "Name": "Courtland Sutton",
+    "Position": "WR",
+    "PPG": 10.6,
+    "Season": 159.4
+  },
+  {
+    "Rank": 114,
+    "Name": "Marquise Brown",
+    "Position": "WR",
+    "PPG": 13,
+    "Season": 156
+  },
+  {
+    "Rank": 115,
+    "Name": "K.J. Osborn",
+    "Position": "WR",
+    "PPG": 9.2,
+    "Season": 155.6
+  },
+  {
+    "Rank": 118,
+    "Name": "Mack Hollins",
+    "Position": "WR",
+    "PPG": 9.1,
+    "Season": 154.2
+  },
+  {
+    "Rank": 122,
+    "Name": "DeAndre Hopkins",
+    "Position": "WR",
+    "PPG": 16.9,
+    "Season": 151.7
+  },
+  {
+    "Rank": 124,
+    "Name": "Parris Campbell",
+    "Position": "WR",
+    "PPG": 8.8,
+    "Season": 149.1
+  },
+  {
+    "Rank": 132,
+    "Name": "Brandin Cooks",
+    "Position": "WR",
+    "PPG": 11.2,
+    "Season": 145.6
+  },
+  {
+    "Rank": 155,
+    "Name": "Richie James Jr.",
+    "Position": "WR",
+    "PPG": 8.3,
+    "Season": 132.5
+  },
+  {
+    "Rank": 160,
+    "Name": "Jahan Dotson",
+    "Position": "WR",
+    "PPG": 10.9,
+    "Season": 130.6
+  },
+  {
+    "Rank": 162,
+    "Name": "Darius Slayton",
+    "Position": "WR",
+    "PPG": 9.9,
+    "Season": 128.4
+  },
+  {
+    "Rank": 165,
+    "Name": "Russell Gage",
+    "Position": "WR",
+    "PPG": 9.5,
+    "Season": 123.6
+  },
+  {
+    "Rank": 167,
+    "Name": "Marquez Valdes-Scantling",
+    "Position": "WR",
+    "PPG": 7.2,
+    "Season": 122.4
+  },
+  {
+    "Rank": 174,
+    "Name": "Isaiah McKenzie",
+    "Position": "WR",
+    "PPG": 7.5,
+    "Season": 119.8
+  },
+  {
+    "Rank": 182,
+    "Name": "Marvin Jones Jr.",
+    "Position": "WR",
+    "PPG": 7.3,
+    "Season": 116.9
+  },
+  {
+    "Rank": 185,
+    "Name": "Kalif Raymond",
+    "Position": "WR",
+    "PPG": 6.8,
+    "Season": 116.2
+  },
+  {
+    "Rank": 186,
+    "Name": "Devin Duvernay",
+    "Position": "WR",
+    "PPG": 8.3,
+    "Season": 116.1
+  },
+  {
+    "Rank": 189,
+    "Name": "Robert Woods",
+    "Position": "WR",
+    "PPG": 6.8,
+    "Season": 115.7
+  },
+  {
+    "Rank": 192,
+    "Name": "Chris Moore",
+    "Position": "WR",
+    "PPG": 7.7,
+    "Season": 115.1
+  },
+  {
+    "Rank": 196,
+    "Name": "Noah Brown",
+    "Position": "WR",
+    "PPG": 7.2,
+    "Season": 114.5
+  },
+  {
+    "Rank": 198,
+    "Name": "Greg Dortch",
+    "Position": "WR",
+    "PPG": 7.1,
+    "Season": 113.1
+  },
+  {
+    "Rank": 200,
+    "Name": "DeAndre Carter",
+    "Position": "WR",
+    "PPG": 6.6,
+    "Season": 112.3
+  },
+  {
+    "Rank": 200,
+    "Name": "Alec Pierce",
+    "Position": "WR",
+    "PPG": 7,
+    "Season": 112.3
+  },
+  {
+    "Rank": 204,
+    "Name": "Olamide Zaccheaus",
+    "Position": "WR",
+    "PPG": 6.5,
+    "Season": 110
+  },
+  {
+    "Rank": 214,
+    "Name": "Michael Gallup",
+    "Position": "WR",
+    "PPG": 7.5,
+    "Season": 105.4
+  },
+  {
+    "Rank": 215,
+    "Name": "Chase Claypool",
+    "Position": "WR",
+    "PPG": 7,
+    "Season": 105
+  },
+  {
+    "Rank": 220,
+    "Name": "Josh Reynolds",
+    "Position": "WR",
+    "PPG": 8.7,
+    "Season": 103.9
+  },
+  {
+    "Rank": 222,
+    "Name": "Demarcus Robinson",
+    "Position": "WR",
+    "PPG": 6.5,
+    "Season": 103.8
+  },
+  {
+    "Rank": 225,
+    "Name": "DeVante Parker",
+    "Position": "WR",
+    "PPG": 7.9,
+    "Season": 102.9
+  },
+  {
+    "Rank": 228,
+    "Name": "Romeo Doubs",
+    "Position": "WR",
+    "PPG": 7.8,
+    "Season": 101.6
+  },
+  {
+    "Rank": 229,
+    "Name": "Darnell Mooney",
+    "Position": "WR",
+    "PPG": 9.2,
+    "Season": 101.5
+  },
+  {
+    "Rank": 230,
+    "Name": "Rashid Shaheed",
+    "Position": "WR",
+    "PPG": 8.4,
+    "Season": 100.5
+  },
+  {
+    "Rank": 231,
+    "Name": "Isaiah Hodgins",
+    "Position": "WR",
+    "PPG": 11.1,
+    "Season": 100.2
+  },
+  {
+    "Rank": 234,
+    "Name": "DJ Chark Jr.",
+    "Position": "WR",
+    "PPG": 8.9,
+    "Season": 98.2
+  },
+  {
+    "Rank": 237,
+    "Name": "Corey Davis",
+    "Position": "WR",
+    "PPG": 7.5,
+    "Season": 97.6
+  },
+  {
+    "Rank": 240,
+    "Name": "Nico Collins",
+    "Position": "WR",
+    "PPG": 9.7,
+    "Season": 97.1
+  },
+  {
+    "Rank": 243,
+    "Name": "Mecole Hardman Jr.",
+    "Position": "WR",
+    "PPG": 11.7,
+    "Season": 93.8
+  },
+  {
+    "Rank": 249,
+    "Name": "Marquise Goodwin",
+    "Position": "WR",
+    "PPG": 6.9,
+    "Season": 90.2
+  },
+  {
+    "Rank": 255,
+    "Name": "Kendrick Bourne",
+    "Position": "WR",
+    "PPG": 5.5,
+    "Season": 88.3
+  },
+  {
+    "Rank": 256,
+    "Name": "Elijah Moore",
+    "Position": "WR",
+    "PPG": 5.5,
+    "Season": 88.1
+  },
+  {
+    "Rank": 256,
+    "Name": "Treylon Burks",
+    "Position": "WR",
+    "PPG": 8,
+    "Season": 88.1
+  },
+  {
+    "Rank": 258,
+    "Name": "Rondale Moore",
+    "Position": "WR",
+    "PPG": 11,
+    "Season": 87.9
+  },
+  {
+    "Rank": 266,
+    "Name": "Allen Robinson II",
+    "Position": "WR",
+    "PPG": 8.5,
+    "Season": 84.9
+  },
+  {
+    "Rank": 268,
+    "Name": "Quez Watkins",
+    "Position": "WR",
+    "PPG": 5,
+    "Season": 84.5
+  },
+  {
+    "Rank": 270,
+    "Name": "Ben Skowronek",
+    "Position": "WR",
+    "PPG": 6,
+    "Season": 84.3
+  },
+  {
+    "Rank": 271,
+    "Name": "Trent Sherfield",
+    "Position": "WR",
+    "PPG": 5.2,
+    "Season": 83.7
+  },
+  {
+    "Rank": 272,
+    "Name": "Terrace Marshall Jr.",
+    "Position": "WR",
+    "PPG": 6.4,
+    "Season": 83
+  },
+  {
+    "Rank": 273,
+    "Name": "Nick Westbrook-Ikhine",
+    "Position": "WR",
+    "PPG": 5.2,
+    "Season": 82.7
+  },
+  {
+    "Rank": 274,
+    "Name": "Jauan Jennings",
+    "Position": "WR",
+    "PPG": 5.2,
+    "Season": 82.6
+  },
+  {
+    "Rank": 275,
+    "Name": "Randall Cobb",
+    "Position": "WR",
+    "PPG": 6.3,
+    "Season": 81.7
+  },
+  {
+    "Rank": 278,
+    "Name": "Hunter Renfrow",
+    "Position": "WR",
+    "PPG": 7.9,
+    "Season": 79
+  },
+  {
+    "Rank": 279,
+    "Name": "Van Jefferson",
+    "Position": "WR",
+    "PPG": 7.9,
+    "Season": 78.9
+  },
+  {
+    "Rank": 285,
+    "Name": "Nelson Agholor",
+    "Position": "WR",
+    "PPG": 5,
+    "Season": 75.2
+  },
+  {
+    "Rank": 290,
+    "Name": "Laviska Shenault Jr.",
+    "Position": "WR",
+    "PPG": 5.6,
+    "Season": 72.7
+  },
+  {
+    "Rank": 291,
+    "Name": "Jamal Agnew",
+    "Position": "WR",
+    "PPG": 4.8,
+    "Season": 72.3
+  },
+  {
+    "Rank": 294,
+    "Name": "Julio Jones",
+    "Position": "WR",
+    "PPG": 7,
+    "Season": 70.4
+  },
+  {
+    "Rank": 298,
+    "Name": "Tyquan Thornton",
+    "Position": "WR",
+    "PPG": 5.5,
+    "Season": 66.3
+  },
+  {
+    "Rank": 299,
+    "Name": "Dante Pettis",
+    "Position": "WR",
+    "PPG": 3.8,
+    "Season": 65.2
+  },
+  {
+    "Rank": 301,
+    "Name": "Equanimeous St. Brown",
+    "Position": "WR",
+    "PPG": 4,
+    "Season": 64.7
+  },
+  {
+    "Rank": 304,
+    "Name": "Tutu Atwell",
+    "Position": "WR",
+    "PPG": 5.3,
+    "Season": 63.2
+  },
+  {
+    "Rank": 304,
+    "Name": "Trenton Irwin",
+    "Position": "WR",
+    "PPG": 7,
+    "Season": 63.2
+  },
+  {
+    "Rank": 308,
+    "Name": "A.J. Green",
+    "Position": "WR",
+    "PPG": 4.7,
+    "Season": 61.6
+  },
+  {
+    "Rank": 308,
+    "Name": "Shi Smith",
+    "Position": "WR",
+    "PPG": 3.6,
+    "Season": 61.6
+  },
+  {
+    "Rank": 313,
+    "Name": "Jarvis Landry",
+    "Position": "WR",
+    "PPG": 6.7,
+    "Season": 60.2
+  },
+  {
+    "Rank": 318,
+    "Name": "Justin Watson",
+    "Position": "WR",
+    "PPG": 3.4,
+    "Season": 58.5
+  },
+  {
+    "Rank": 319,
+    "Name": "Ray-Ray McCloud III",
+    "Position": "WR",
+    "PPG": 3.4,
+    "Season": 58.1
+  },
+  {
+    "Rank": 320,
+    "Name": "Braxton Berrios",
+    "Position": "WR",
+    "PPG": 3.4,
+    "Season": 57.7
+  },
+  {
+    "Rank": 321,
+    "Name": "Kadarius Toney",
+    "Position": "WR",
+    "PPG": 6.4,
+    "Season": 57.3
+  },
+  {
+    "Rank": 322,
+    "Name": "Kendall Hinton",
+    "Position": "WR",
+    "PPG": 5.1,
+    "Season": 56.4
+  },
+  {
+    "Rank": 330,
+    "Name": "Rashod Bateman",
+    "Position": "WR",
+    "PPG": 8.9,
+    "Season": 53.5
+  },
+  {
+    "Rank": 332,
+    "Name": "Tre'Quan Smith",
+    "Position": "WR",
+    "PPG": 5.3,
+    "Season": 52.8
+  },
+  {
+    "Rank": 334,
+    "Name": "Robbie Chosen",
+    "Position": "WR",
+    "PPG": 4.4,
+    "Season": 52.2
+  },
+  {
+    "Rank": 337,
+    "Name": "Damiere Byrd",
+    "Position": "WR",
+    "PPG": 4.3,
+    "Season": 51.8
+  },
+  {
+    "Rank": 338,
+    "Name": "Phillip Dorsett II",
+    "Position": "WR",
+    "PPG": 3.4,
+    "Season": 51.7
+  },
+  {
+    "Rank": 339,
+    "Name": "Wan'Dale Robinson",
+    "Position": "WR",
+    "PPG": 8.6,
+    "Season": 51.6
+  },
+  {
+    "Rank": 341,
+    "Name": "Michael Thomas",
+    "Position": "WR",
+    "PPG": 17,
+    "Season": 51.1
+  },
+  {
+    "Rank": 347,
+    "Name": "Brandon Powell",
+    "Position": "WR",
+    "PPG": 2.8,
+    "Season": 47.6
+  },
+  {
+    "Rank": 349,
+    "Name": "Sammy Watkins",
+    "Position": "WR",
+    "PPG": 5.2,
+    "Season": 46.5
+  },
+  {
+    "Rank": 352,
+    "Name": "David Bell",
+    "Position": "WR",
+    "PPG": 3,
+    "Season": 45.4
+  },
+  {
+    "Rank": 356,
+    "Name": "Skyy Moore",
+    "Position": "WR",
+    "PPG": 2.7,
+    "Season": 43.4
+  },
+  {
+    "Rank": 361,
+    "Name": "Ashton Dulin",
+    "Position": "WR",
+    "PPG": 4.3,
+    "Season": 42.5
+  },
+  {
+    "Rank": 362,
+    "Name": "Scott Miller",
+    "Position": "WR",
+    "PPG": 3.5,
+    "Season": 42.3
+  },
+  {
+    "Rank": 367,
+    "Name": "KhaDarel Hodge",
+    "Position": "WR",
+    "PPG": 3.2,
+    "Season": 41.2
+  },
+  {
+    "Rank": 375,
+    "Name": "Amari Rodgers",
+    "Position": "WR",
+    "PPG": 2.6,
+    "Season": 39.1
+  },
+  {
+    "Rank": 381,
+    "Name": "Marquez Callaway",
+    "Position": "WR",
+    "PPG": 3.8,
+    "Season": 37.8
+  },
+  {
+    "Rank": 385,
+    "Name": "Zach Pascal",
+    "Position": "WR",
+    "PPG": 2.4,
+    "Season": 36
+  },
+  {
+    "Rank": 389,
+    "Name": "Byron Pringle",
+    "Position": "WR",
+    "PPG": 3.6,
+    "Season": 35.5
+  },
+  {
+    "Rank": 390,
+    "Name": "Sterling Shepard",
+    "Position": "WR",
+    "PPG": 11.5,
+    "Season": 34.4
+  },
+  {
+    "Rank": 392,
+    "Name": "Khalil Shakir",
+    "Position": "WR",
+    "PPG": 3.4,
+    "Season": 34.1
+  },
+  {
+    "Rank": 393,
+    "Name": "Velus Jones Jr.",
+    "Position": "WR",
+    "PPG": 3.1,
+    "Season": 34
+  },
+  {
+    "Rank": 394,
+    "Name": "Jalen Nailor",
+    "Position": "WR",
+    "PPG": 4.1,
+    "Season": 32.9
+  },
+  {
+    "Rank": 395,
+    "Name": "Dyami Brown",
+    "Position": "WR",
+    "PPG": 3.6,
+    "Season": 32.8
+  },
+  {
+    "Rank": 399,
+    "Name": "Steven Sims Jr.",
+    "Position": "WR",
+    "PPG": 2.6,
+    "Season": 31.4
+  },
+  {
+    "Rank": 401,
+    "Name": "River Cracraft",
+    "Position": "WR",
+    "PPG": 3.9,
+    "Season": 31.2
+  },
+  {
+    "Rank": 402,
+    "Name": "Lawrence Cager",
+    "Position": "WR",
+    "PPG": 5.1,
+    "Season": 30.8
+  },
+  {
+    "Rank": 407,
+    "Name": "Keelan Cole Sr.",
+    "Position": "WR",
+    "PPG": 2.5,
+    "Season": 30.1
+  },
+  {
+    "Rank": 409,
+    "Name": "Denzel Mims",
+    "Position": "WR",
+    "PPG": 3.3,
+    "Season": 29.6
+  },
+  {
+    "Rank": 417,
+    "Name": "Jalen Reagor",
+    "Position": "WR",
+    "PPG": 1.6,
+    "Season": 26.9
+  },
+  {
+    "Rank": 420,
+    "Name": "Cedrick Wilson Jr.",
+    "Position": "WR",
+    "PPG": 2,
+    "Season": 26.4
+  },
+  {
+    "Rank": 423,
+    "Name": "KJ Hamler",
+    "Position": "WR",
+    "PPG": 3.7,
+    "Season": 25.8
+  },
+  {
+    "Rank": 426,
+    "Name": "N'Keal Harry",
+    "Position": "WR",
+    "PPG": 4.1,
+    "Season": 24.6
+  },
+  {
+    "Rank": 428,
+    "Name": "DeSean Jackson",
+    "Position": "WR",
+    "PPG": 3.5,
+    "Season": 24.3
+  },
+  {
+    "Rank": 431,
+    "Name": "Breshad Perriman",
+    "Position": "WR",
+    "PPG": 2.9,
+    "Season": 23.3
+  },
+  {
+    "Rank": 440,
+    "Name": "Tom Kennedy",
+    "Position": "WR",
+    "PPG": 3.2,
+    "Season": 22.1
+  },
+  {
+    "Rank": 444,
+    "Name": "David Sills V",
+    "Position": "WR",
+    "PPG": 3.1,
+    "Season": 21.6
+  },
+  {
+    "Rank": 445,
+    "Name": "Jeff Smith",
+    "Position": "WR",
+    "PPG": 3.1,
+    "Season": 21.4
+  },
+  {
+    "Rank": 453,
+    "Name": "Kenny Golladay",
+    "Position": "WR",
+    "PPG": 3.4,
+    "Season": 20.1
+  },
+  {
+    "Rank": 460,
+    "Name": "Samori Toure",
+    "Position": "WR",
+    "PPG": 4.8,
+    "Season": 19.2
+  },
+  {
+    "Rank": 461,
+    "Name": "T.Y. Hilton",
+    "Position": "WR",
+    "PPG": 6.4,
+    "Season": 19.1
+  },
+  {
+    "Rank": 465,
+    "Name": "Michael Bandy",
+    "Position": "WR",
+    "PPG": 2.4,
+    "Season": 18.9
+  },
+  {
+    "Rank": 465,
+    "Name": "Marcus Johnson",
+    "Position": "WR",
+    "PPG": 2.4,
+    "Season": 18.9
+  },
+  {
+    "Rank": 467,
+    "Name": "Anthony Schwartz",
+    "Position": "WR",
+    "PPG": 2.7,
+    "Season": 18.8
+  },
+  {
+    "Rank": 478,
+    "Name": "Cam Sims",
+    "Position": "WR",
+    "PPG": 1.3,
+    "Season": 16.9
+  },
+  {
+    "Rank": 480,
+    "Name": "Dax Milne",
+    "Position": "WR",
+    "PPG": 1,
+    "Season": 15.7
+  },
+  {
+    "Rank": 481,
+    "Name": "Jameson Williams",
+    "Position": "WR",
+    "PPG": 2.5,
+    "Season": 15.1
+  },
+  {
+    "Rank": 485,
+    "Name": "Brandon Johnson",
+    "Position": "WR",
+    "PPG": 2.8,
+    "Season": 14.2
+  },
+  {
+    "Rank": 488,
+    "Name": "Dee Eskridge",
+    "Position": "WR",
+    "PPG": 1.5,
+    "Season": 13.8
+  },
+  {
+    "Rank": 490,
+    "Name": "Jalen Virgil",
+    "Position": "WR",
+    "PPG": 1.9,
+    "Season": 13.5
+  },
+  {
+    "Rank": 492,
+    "Name": "James Proche II",
+    "Position": "WR",
+    "PPG": 1.1,
+    "Season": 13.2
+  },
+  {
+    "Rank": 497,
+    "Name": "Gunner Olszewski",
+    "Position": "WR",
+    "PPG": 0.8,
+    "Season": 12.2
+  },
+  {
+    "Rank": 498,
+    "Name": "Jamison Crowder",
+    "Position": "WR",
+    "PPG": 3,
+    "Season": 12
+  },
+  {
+    "Rank": 501,
+    "Name": "Kyle Philips",
+    "Position": "WR",
+    "PPG": 3,
+    "Season": 11.8
+  },
+  {
+    "Rank": 502,
+    "Name": "Trent Taylor",
+    "Position": "WR",
+    "PPG": 0.7,
+    "Season": 11.7
+  },
+  {
+    "Rank": 506,
+    "Name": "Andre Baccellia",
+    "Position": "WR",
+    "PPG": 2.3,
+    "Season": 11.5
+  },
+  {
+    "Rank": 507,
+    "Name": "Freddie Swain",
+    "Position": "WR",
+    "PPG": 3.8,
+    "Season": 11.4
+  },
+  {
+    "Rank": 508,
+    "Name": "John Brown",
+    "Position": "WR",
+    "PPG": 5.6,
+    "Season": 11.2
+  },
+  {
+    "Rank": 511,
+    "Name": "Deven Thompkins",
+    "Position": "WR",
+    "PPG": 2.2,
+    "Season": 10.8
+  },
+  {
+    "Rank": 513,
+    "Name": "Jake Kumerow",
+    "Position": "WR",
+    "PPG": 2.1,
+    "Season": 10.4
+  },
+  {
+    "Rank": 516,
+    "Name": "Laquon Treadwell",
+    "Position": "WR",
+    "PPG": 3.4,
+    "Season": 10.2
+  },
+  {
+    "Rank": 526,
+    "Name": "Cole Beasley",
+    "Position": "WR",
+    "PPG": 1.9,
+    "Season": 9.5
+  },
+  {
+    "Rank": 527,
+    "Name": "Kevin White",
+    "Position": "WR",
+    "PPG": 1.6,
+    "Season": 9.4
+  },
+  {
+    "Rank": 532,
+    "Name": "Michael Woods II",
+    "Position": "WR",
+    "PPG": 1.1,
+    "Season": 9
+  },
+  {
+    "Rank": 535,
+    "Name": "Mike Strachan",
+    "Position": "WR",
+    "PPG": 1.5,
+    "Season": 8.9
+  },
+  {
+    "Rank": 536,
+    "Name": "Chris Conley",
+    "Position": "WR",
+    "PPG": 2.2,
+    "Season": 8.6
+  },
+  {
+    "Rank": 538,
+    "Name": "Cody Hollister",
+    "Position": "WR",
+    "PPG": 1.4,
+    "Season": 8.4
+  },
+  {
+    "Rank": 538,
+    "Name": "Jalen Guyton",
+    "Position": "WR",
+    "PPG": 4.2,
+    "Season": 8.4
+  },
+  {
+    "Rank": 544,
+    "Name": "Mike Thomas",
+    "Position": "WR",
+    "PPG": 1.6,
+    "Season": 7.8
+  },
+  {
+    "Rank": 548,
+    "Name": "Tylan Wallace",
+    "Position": "WR",
+    "PPG": 1.2,
+    "Season": 7.3
+  },
+  {
+    "Rank": 556,
+    "Name": "Racey McMath",
+    "Position": "WR",
+    "PPG": 1.6,
+    "Season": 6.4
+  },
+  {
+    "Rank": 559,
+    "Name": "Tim Jones",
+    "Position": "WR",
+    "PPG": 0.9,
+    "Season": 6
+  },
+  {
+    "Rank": 568,
+    "Name": "Simi Fehoko",
+    "Position": "WR",
+    "PPG": 1.8,
+    "Season": 5.4
+  },
+  {
+    "Rank": 571,
+    "Name": "Montrell Washington",
+    "Position": "WR",
+    "PPG": 0.3,
+    "Season": 5.2
+  },
+  {
+    "Rank": 574,
+    "Name": "Penny Hart",
+    "Position": "WR",
+    "PPG": 1.7,
+    "Season": 5
+  },
+  {
+    "Rank": 576,
+    "Name": "Jaelon Darden",
+    "Position": "WR",
+    "PPG": 0.3,
+    "Season": 4.8
+  },
+  {
+    "Rank": 577,
+    "Name": "Tyrie Cleveland",
+    "Position": "WR",
+    "PPG": 1,
+    "Season": 4.8
+  },
+  {
+    "Rank": 581,
+    "Name": "Daylen Baldwin",
+    "Position": "WR",
+    "PPG": 4.5,
+    "Season": 4.5
+  },
+  {
+    "Rank": 581,
+    "Name": "Bryan Edwards",
+    "Position": "WR",
+    "PPG": 1.1,
+    "Season": 4.5
+  },
+  {
+    "Rank": 583,
+    "Name": "Dareke Young",
+    "Position": "WR",
+    "PPG": 0.6,
+    "Season": 4.4
+  },
+  {
+    "Rank": 583,
+    "Name": "Dezmon Patmon",
+    "Position": "WR",
+    "PPG": 4.4,
+    "Season": 4.4
+  },
+  {
+    "Rank": 587,
+    "Name": "Andy Isabella",
+    "Position": "WR",
+    "PPG": 1.1,
+    "Season": 4.2
+  },
+  {
+    "Rank": 588,
+    "Name": "Cade Johnson",
+    "Position": "WR",
+    "PPG": 2.1,
+    "Season": 4.1
+  },
+  {
+    "Rank": 588,
+    "Name": "Pharoh Cooper",
+    "Position": "WR",
+    "PPG": 0.8,
+    "Season": 4.1
+  },
+  {
+    "Rank": 590,
+    "Name": "Lil'Jordan Humphrey",
+    "Position": "WR",
+    "PPG": 1,
+    "Season": 4
+  },
+  {
+    "Rank": 592,
+    "Name": "Keith Kirkwood",
+    "Position": "WR",
+    "PPG": 1.3,
+    "Season": 3.8
+  },
+  {
+    "Rank": 594,
+    "Name": "Dennis Houston",
+    "Position": "WR",
+    "PPG": 1.8,
+    "Season": 3.6
+  },
+  {
+    "Rank": 595,
+    "Name": "Quintez Cephus",
+    "Position": "WR",
+    "PPG": 1.2,
+    "Season": 3.5
+  },
+  {
+    "Rank": 596,
+    "Name": "Nsimba Webster",
+    "Position": "WR",
+    "PPG": 3.4,
+    "Season": 3.4
+  },
+  {
+    "Rank": 597,
+    "Name": "Austin Trammell",
+    "Position": "WR",
+    "PPG": 1.7,
+    "Season": 3.3
+  },
+  {
+    "Rank": 598,
+    "Name": "Jalen Tolbert",
+    "Position": "WR",
+    "PPG": 1.1,
+    "Season": 3.2
+  },
+  {
+    "Rank": 599,
+    "Name": "Miles Boykin",
+    "Position": "WR",
+    "PPG": 0.3,
+    "Season": 3.1
+  },
+  {
+    "Rank": 602,
+    "Name": "Danny Gray",
+    "Position": "WR",
+    "PPG": 0.4,
+    "Season": 2.9
+  },
+  {
+    "Rank": 603,
+    "Name": "Juwann Winfree",
+    "Position": "WR",
+    "PPG": 0.9,
+    "Season": 2.7
+  },
+  {
+    "Rank": 605,
+    "Name": "DJ Turner",
+    "Position": "WR",
+    "PPG": 0.4,
+    "Season": 2.6
+  },
+  {
+    "Rank": 607,
+    "Name": "Frank Darby",
+    "Position": "WR",
+    "PPG": 2.5,
+    "Season": 2.5
+  },
+  {
+    "Rank": 614,
+    "Name": "Tyron Johnson",
+    "Position": "WR",
+    "PPG": 0.9,
+    "Season": 1.8
+  },
+  {
+    "Rank": 617,
+    "Name": "Jalen Camp",
+    "Position": "WR",
+    "PPG": 1.7,
+    "Season": 1.7
+  },
+  {
+    "Rank": 617,
+    "Name": "Braylon Sanders",
+    "Position": "WR",
+    "PPG": 0.9,
+    "Season": 1.7
+  },
+  {
+    "Rank": 617,
+    "Name": "Maurice Alexander",
+    "Position": "WR",
+    "PPG": 0.6,
+    "Season": 1.7
+  },
+  {
+    "Rank": 623,
+    "Name": "C.J. Board",
+    "Position": "WR",
+    "PPG": 0.4,
+    "Season": 1.6
+  },
+  {
+    "Rank": 625,
+    "Name": "Jason Moore Jr.",
+    "Position": "WR",
+    "PPG": 1.5,
+    "Season": 1.5
+  },
+  {
+    "Rank": 630,
+    "Name": "Mason Kinsey",
+    "Position": "WR",
+    "PPG": 0.7,
+    "Season": 1.3
+  },
+  {
+    "Rank": 630,
+    "Name": "Erik Ezukanma",
+    "Position": "WR",
+    "PPG": 1.3,
+    "Season": 1.3
+  },
+  {
+    "Rank": 632,
+    "Name": "Deonte Harty",
+    "Position": "WR",
+    "PPG": 0.3,
+    "Season": 1.3
+  },
+  {
+    "Rank": 633,
+    "Name": "Cody White",
+    "Position": "WR",
+    "PPG": 1.2,
+    "Season": 1.2
+  },
+  {
+    "Rank": 635,
+    "Name": "Keke Coutee",
+    "Position": "WR",
+    "PPG": 0.1,
+    "Season": 1
+  },
+  {
+    "Rank": 641,
+    "Name": "Ihmir Smith-Marsette",
+    "Position": "WR",
+    "PPG": 0.1,
+    "Season": 0.4
+  },
+  {
+    "Rank": 646,
+    "Name": "Emeka Emezie",
+    "Position": "WR",
+    "PPG": 0,
+    "Season": 0
+  },
+  {
+    "Rank": 646,
+    "Name": "Alex Erickson",
+    "Position": "WR",
+    "PPG": 0,
+    "Season": 0
+  },
+  {
+    "Rank": 646,
+    "Name": "Alex Bachman",
+    "Position": "WR",
+    "PPG": 0,
+    "Season": 0
+  },
+  {
+    "Rank": 646,
+    "Name": "Lance McCutcheon",
+    "Position": "WR",
+    "PPG": 0,
+    "Season": 0
+  },
+  {
+    "Rank": 646,
+    "Name": "Tay Martin",
+    "Position": "WR",
+    "PPG": 0,
+    "Season": 0
+  },
+  {
+    "Rank": 646,
+    "Name": "Kirk Merritt",
+    "Position": "WR",
+    "PPG": 0,
+    "Season": 0
+  },
+  {
+    "Rank": 646,
+    "Name": "James Washington",
+    "Position": "WR",
+    "PPG": 0,
+    "Season": 0
+  },
+  {
+    "Rank": 646,
+    "Name": "Josh Gordon",
+    "Position": "WR",
+    "PPG": 0,
+    "Season": 0
+  },
+  {
+    "Rank": 646,
+    "Name": "Tanner Conner",
+    "Position": "WR",
+    "PPG": 0,
+    "Season": 0
+  },
+  {
+    "Rank": 646,
+    "Name": "Dan Chisena",
+    "Position": "WR",
+    "PPG": 0,
+    "Season": 0
+  },
+  {
+    "Rank": 646,
+    "Name": "Britain Covey",
+    "Position": "WR",
+    "PPG": 0,
+    "Season": 0
+  },
+  {
+    "Rank": 646,
+    "Name": "Tanner Gentry",
+    "Position": "WR",
+    "PPG": 0,
+    "Season": 0
+  },
+  {
+    "Rank": 646,
+    "Name": "Malik Turner",
+    "Position": "WR",
+    "PPG": 0,
+    "Season": 0
+  },
+  {
+    "Rank": 646,
+    "Name": "Quinton Bell",
+    "Position": "WR",
+    "PPG": 0,
+    "Season": 0
+  },
+  {
+    "Rank": 646,
+    "Name": "Matthew Slater",
+    "Position": "WR",
+    "PPG": 0,
+    "Season": 0
+  },
+  {
+    "Rank": 646,
+    "Name": "Raleigh Webb",
+    "Position": "WR",
+    "PPG": 0,
+    "Season": 0
+  },
+  {
+    "Rank": 646,
+    "Name": "Cody Thompson",
+    "Position": "WR",
+    "PPG": 0,
+    "Season": 0
+  },
+  {
+    "Rank": 646,
+    "Name": "Brandon Zylstra",
+    "Position": "WR",
+    "PPG": 0,
+    "Season": 0
+  },
+  {
+    "Rank": 646,
+    "Name": "Stanley Berryhill III",
+    "Position": "WR",
+    "PPG": 0,
+    "Season": 0
+  },
+  {
+    "Rank": 646,
+    "Name": "Trinity Benson",
+    "Position": "WR",
+    "PPG": 0,
+    "Season": 0
+  },
+  {
+    "Rank": 646,
+    "Name": "Marken Michel",
+    "Position": "WR",
+    "PPG": 0,
+    "Season": 0
+  },
+  {
+    "Rank": 646,
+    "Name": "Marcus Kemp",
+    "Position": "WR",
+    "PPG": 0,
+    "Season": 0
+  },
+  {
+    "Rank": 646,
+    "Name": "Binjimen Victor",
+    "Position": "WR",
+    "PPG": 0,
+    "Season": 0
+  },
+  {
+    "Rank": 646,
+    "Name": "Rashard Higgins",
+    "Position": "WR",
+    "PPG": 0,
+    "Season": 0
+  },
+  {
+    "Rank": 646,
+    "Name": "Albert Wilson",
+    "Position": "WR",
+    "PPG": 0,
+    "Season": 0
+  },
+  {
+    "Rank": 646,
+    "Name": "Stanley Morgan Jr.",
+    "Position": "WR",
+    "PPG": 0,
+    "Season": 0
+  },
+  {
+    "Rank": 646,
+    "Name": "Justyn Ross",
+    "Position": "WR",
+    "PPG": 0,
+    "Season": 0
+  },
+  {
+    "Rank": 646,
+    "Name": "Justin Hardee",
+    "Position": "WR",
+    "PPG": 0,
+    "Season": 0
+  },
+  {
+    "Rank": 646,
+    "Name": "Andre Roberts",
+    "Position": "WR",
+    "PPG": 0,
+    "Season": 0
+  },
+  {
+    "Rank": 646,
+    "Name": "Josh Ali",
+    "Position": "WR",
+    "PPG": 0,
+    "Season": 0
+  },
+  {
+    "Rank": 646,
+    "Name": "Odell Beckham Jr.",
+    "Position": "WR",
+    "PPG": 0,
+    "Season": 0
+  },
+  {
+    "Rank": 717,
+    "Name": "KaVontae Turpin",
+    "Position": "WR",
+    "PPG": 0,
+    "Season": -0.4
+  },
+  {
+    "Rank": 721,
+    "Name": "Chester Rogers",
+    "Position": "WR",
+    "PPG": -0.7,
+    "Season": -2
+  }
+]
