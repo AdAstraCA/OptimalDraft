@@ -32,15 +32,15 @@
                 </div>
                 <div class="col number" id="wrcount">
                     <h5>WR:</h5>
-                    <input type="number" id = "wrvalue" value="3" min="1" max="4" step="1" />
+                    <input type="number" id = "wrvalue" value="3" min="0" max="4" step="1" />
                 </div>
                 <div class="col number" id="tecount">
                     <h5>TE:</h5>
-                    <input type="number" id = "tevalue" value="1" min="1" max="2" step="1" />
+                    <input type="number" id = "tevalue" value="1" min="0" max="2" step="1" />
                 </div>
                 <div class="col number" id="flexcount">
                     <h5>FLEX:</h5>
-                    <input type="number" id = "flexvalue" value="2" min="1" max="3" step="1" />
+                    <input type="number" id = "flexvalue" value="2" min="0" max="3" step="1" />
                 </div>
                 <div class="col number" id="kcount">
                     <h5>K:</h5>
@@ -52,220 +52,103 @@
                 </div>
                 <div class="col number" id="benchcount">
                     <h5>Bench:</h5>
-                    <input type="number" id = "benchvalue" value="7" min="1" max="8" step="1" />
+                    <input type="number" id = "benchvalue" value="7" min="0" max="8" step="1" />
+                </div>
+                <div class="col number" id="pickcount">
+                    <h5>R1 Pick:</h5>
+                    <input type="number" id = "pickvalue" value="1" min="1" max="12" step="1" />
                 </div>
             </div>
+            <form>
+                <div class="row character-info row-cols-2 row-cols-sm-3">
+                    <div class="col">
+                        <div class="qbdiv">
+                            <input type="text" placeholder="QB" class="form-control qb player" aria-label="Small" aria-describedby="inputGroup-sizing-sm" required/>
+                        </div>
+                        <div class="rbdiv">
+                            <input type="text" placeholder="RB" class="form-control rb player" aria-label="Small" aria-describedby="inputGroup-sizing-sm" required/>
+                            <input type="text" placeholder="RB" class="form-control rb player" aria-label="Small" aria-describedby="inputGroup-sizing-sm" required/>
+                        </div>
+                        <div class="wrdiv">
+                            <input type="text" placeholder="WR" class="form-control wr player" aria-label="Small" aria-describedby="inputGroup-sizing-sm" required/>
+                            <input type="text" placeholder="WR" class="form-control wr player" aria-label="Small" aria-describedby="inputGroup-sizing-sm" required/>
+                            <input type="text" placeholder="WR" class="form-control wr player" aria-label="Small" aria-describedby="inputGroup-sizing-sm" required/>
+                        </div>
+                        <div class="tediv">
+                            <input type="text" placeholder="TE" class="form-control te player" aria-label="Small" aria-describedby="inputGroup-sizing-sm" required/>
+                        </div>
+                        <div class="flexdiv">
+                            <input type="text" placeholder="FLEX" class="form-control flex player" aria-label="Small" aria-describedby="inputGroup-sizing-sm" required/>
+                            <input type="text" placeholder="FLEX" class="form-control flex player" aria-label="Small" aria-describedby="inputGroup-sizing-sm" required/>
+                        </div>
+                        <div class="kdiv">
+                            <input type="text" placeholder="K" class="form-control k player" aria-label="Small" aria-describedby="inputGroup-sizing-sm" required/>
+                        </div>
+                        <div class="dstdiv">
+                            <input type="text" placeholder="DST" class="form-control dst player" aria-label="Small" aria-describedby="inputGroup-sizing-sm" required/>
+                        </div>
+                        <div class="benchdiv">
+                            <input type="text" placeholder="Bench" class="form-control bench player" aria-label="Small" aria-describedby="inputGroup-sizing-sm" required/>
+                            <input type="text" placeholder="Bench" class="form-control bench player" aria-label="Small" aria-describedby="inputGroup-sizing-sm" required/>
+                            <input type="text" placeholder="Bench" class="form-control bench player" aria-label="Small" aria-describedby="inputGroup-sizing-sm" required/>
+                            <input type="text" placeholder="Bench" class="form-control bench player" aria-label="Small" aria-describedby="inputGroup-sizing-sm" required/>
+                            <input type="text" placeholder="Bench" class="form-control bench player" aria-label="Small" aria-describedby="inputGroup-sizing-sm" required/>
+                            <input type="text" placeholder="Bench" class="form-control bench player" aria-label="Small" aria-describedby="inputGroup-sizing-sm" required/>
+                            <input type="text" placeholder="Bench" class="form-control bench player" aria-label="Small" aria-describedby="inputGroup-sizing-sm" required/>
+                        </div>
+                    </div>
+                    <div class="col draftOrder">
+                        <input type="text" placeholder="Round 1" class="form-control round player" aria-label="Small" aria-describedby="inputGroup-sizing-sm" required/>
+                        <input type="text" placeholder="Round 2" class="form-control round player" aria-label="Small" aria-describedby="inputGroup-sizing-sm" required/>
+                        <input type="text" placeholder="Round 3" class="form-control round player" aria-label="Small" aria-describedby="inputGroup-sizing-sm" required/>
+                        <input type="text" placeholder="Round 4" class="form-control round player" aria-label="Small" aria-describedby="inputGroup-sizing-sm" required/>
+                        <input type="text" placeholder="Round 5" class="form-control round player" aria-label="Small" aria-describedby="inputGroup-sizing-sm" required/>
+                        <input type="text" placeholder="Round 6" class="form-control round player" aria-label="Small" aria-describedby="inputGroup-sizing-sm" required/>
+                        <input type="text" placeholder="Round 7" class="form-control round player" aria-label="Small" aria-describedby="inputGroup-sizing-sm" required/>
+                        <input type="text" placeholder="Round 8" class="form-control round player" aria-label="Small" aria-describedby="inputGroup-sizing-sm" required/>
+                        <input type="text" placeholder="Round 9" class="form-control round player" aria-label="Small" aria-describedby="inputGroup-sizing-sm" required/>
+                        <input type="text" placeholder="Round 10" class="form-control round player" aria-label="Small" aria-describedby="inputGroup-sizing-sm" required/>
+                        <input type="text" placeholder="Round 11" class="form-control round player" aria-label="Small" aria-describedby="inputGroup-sizing-sm" required/>
+                        <input type="text" placeholder="Round 12" class="form-control round player" aria-label="Small" aria-describedby="inputGroup-sizing-sm" required/>
+                        <input type="text" placeholder="Round 13" class="form-control round player" aria-label="Small" aria-describedby="inputGroup-sizing-sm" required/>
+                        <input type="text" placeholder="Round 14" class="form-control round player" aria-label="Small" aria-describedby="inputGroup-sizing-sm" required/>
+                        <input type="text" placeholder="Round 15" class="form-control round player" aria-label="Small" aria-describedby="inputGroup-sizing-sm" required/>
+                        <input type="text" placeholder="Round 16" class="form-control round player" aria-label="Small" aria-describedby="inputGroup-sizing-sm" required/>
+                        <input type="text" placeholder="Round 17" class="form-control round player" aria-label="Small" aria-describedby="inputGroup-sizing-sm" required/>
+                        <input type="text" placeholder="Round 18" class="form-control round player" aria-label="Small" aria-describedby="inputGroup-sizing-sm" required/>
+                    </div>
+                    <div class="col optimalTeam">
+                        <input type="text" class="form-control optimal" aria-label="Small" aria-describedby="inputGroup-sizing-sm" readonly />
+                        <input type="text" class="form-control optimal" aria-label="Small" aria-describedby="inputGroup-sizing-sm" readonly />
+                        <input type="text" class="form-control optimal" aria-label="Small" aria-describedby="inputGroup-sizing-sm" readonly />
+                        <input type="text" class="form-control optimal" aria-label="Small" aria-describedby="inputGroup-sizing-sm" readonly />
+                        <input type="text" class="form-control optimal" aria-label="Small" aria-describedby="inputGroup-sizing-sm" readonly />
+                        <input type="text" class="form-control optimal" aria-label="Small" aria-describedby="inputGroup-sizing-sm" readonly />
+                        <input type="text" class="form-control optimal" aria-label="Small" aria-describedby="inputGroup-sizing-sm" readonly />
+                        <input type="text" class="form-control optimal" aria-label="Small" aria-describedby="inputGroup-sizing-sm" readonly />
+                        <input type="text" class="form-control optimal" aria-label="Small" aria-describedby="inputGroup-sizing-sm" readonly />
+                        <input type="text" class="form-control optimal" aria-label="Small" aria-describedby="inputGroup-sizing-sm" readonly />
+                        <input type="text" class="form-control optimal" aria-label="Small" aria-describedby="inputGroup-sizing-sm" readonly />
+                        <input type="text" class="form-control optimal" aria-label="Small" aria-describedby="inputGroup-sizing-sm" readonly />
+                        <input type="text" class="form-control optimal" aria-label="Small" aria-describedby="inputGroup-sizing-sm" readonly />
+                        <input type="text" class="form-control optimal" aria-label="Small" aria-describedby="inputGroup-sizing-sm" readonly />
+                        <input type="text" class="form-control optimal" aria-label="Small" aria-describedby="inputGroup-sizing-sm" readonly />
+                        <input type="text" class="form-control optimal" aria-label="Small" aria-describedby="inputGroup-sizing-sm" readonly />
+                        <input type="text" class="form-control optimal" aria-label="Small" aria-describedby="inputGroup-sizing-sm" readonly />
+                        <input type="text" class="form-control optimal" aria-label="Small" aria-describedby="inputGroup-sizing-sm" readonly />
+                    </div>
+                </div>
+                <div class="row">
+                    <button type="submit" class="btn submit-button">Calculate</button>
+                </div>
+            </form>
             <div class="row character-info row-cols-1 row-cols-sm-2">
-                <div class="col">
-                    <div class="qbdiv">
-                        <input type="text" placeholder="QB" class="form-control qb player" aria-label="Small" aria-describedby="inputGroup-sizing-sm" required>
-                    </div>
-                    <div class="rbdiv">
-                        <input type="text" placeholder="RB" class="form-control rb player" aria-label="Small" aria-describedby="inputGroup-sizing-sm" required>
-                        <input type="text" placeholder="RB" class="form-control rb player" aria-label="Small" aria-describedby="inputGroup-sizing-sm" required>
-                    </div>
-                    <div class="wrdiv">
-                        <input type="text" placeholder="WR" class="form-control wr player" aria-label="Small" aria-describedby="inputGroup-sizing-sm" required>
-                        <input type="text" placeholder="WR" class="form-control wr player" aria-label="Small" aria-describedby="inputGroup-sizing-sm" required>
-                        <input type="text" placeholder="WR" class="form-control wr player" aria-label="Small" aria-describedby="inputGroup-sizing-sm" required>
-                    </div>
-                    <div class="tediv">
-                        <input type="text" placeholder="TE" class="form-control te player" aria-label="Small" aria-describedby="inputGroup-sizing-sm" required>
-                    </div>
-                    <div class="flexdiv">
-                        <input type="text" placeholder="FLEX" class="form-control flex player" aria-label="Small" aria-describedby="inputGroup-sizing-sm" required>
-                        <input type="text" placeholder="FLEX" class="form-control flex player" aria-label="Small" aria-describedby="inputGroup-sizing-sm" required>
-                        <input type="text" placeholder="FLEX" class="form-control flex player" aria-label="Small" aria-describedby="inputGroup-sizing-sm" required>
-                    </div>
-                    <div class="kdiv">
-                        <input type="text" placeholder="K" class="form-control k player" aria-label="Small" aria-describedby="inputGroup-sizing-sm" required>
-                    </div>
-                    <div class="dstdiv">
-                        <input type="text" placeholder="DST" class="form-control dst player" aria-label="Small" aria-describedby="inputGroup-sizing-sm" required>
-                    </div>
-                    <div class="benchdiv">
-                        <input type="text" placeholder="Bench" class="form-control bench player" aria-label="Small" aria-describedby="inputGroup-sizing-sm" required>
-                        <input type="text" placeholder="Bench" class="form-control bench player" aria-label="Small" aria-describedby="inputGroup-sizing-sm" required>
-                        <input type="text" placeholder="Bench" class="form-control bench player" aria-label="Small" aria-describedby="inputGroup-sizing-sm" required>
-                        <input type="text" placeholder="Bench" class="form-control bench player" aria-label="Small" aria-describedby="inputGroup-sizing-sm" required>
-                        <input type="text" placeholder="Bench" class="form-control bench player" aria-label="Small" aria-describedby="inputGroup-sizing-sm" required>
-                        <input type="text" placeholder="Bench" class="form-control bench player" aria-label="Small" aria-describedby="inputGroup-sizing-sm" required>
-                        <input type="text" placeholder="Bench" class="form-control bench player" aria-label="Small" aria-describedby="inputGroup-sizing-sm" required>
-                    </div>
-                </div>
-                <div class="col">
-                </div>
-            </div>
-            <div class="row">
-                <button type="reset" class="btn submit-button" onclick="fantasyCheck()">Calculate</button>
-            </div>
-            <div class="row character-info row-cols-1 row-cols-sm-2 row-cols-md-3">
-                <div class="col-auto">
-                    <div class="dropdown">
-                        <div>
-                            <label for="game-choice">Game:</label>
-                        </div>
-                        <div>
-                            <select id="game-choice" size="5" onchange="addCharacters(this)" required>
-                                <option value="The Binding Blade">The Binding Blade</option>
-                                <option value="Blazing Sword(Lyn Mode)">Blazing Sword(Lyn Mode)</option>
-                                <option value="Blazing Sword(Eliwood/Hector Mode)">Blazing Sword(Eliwood/Hector Mode)</option>
-                                <option value="The Sacred Stones">The Sacred Stones</option>
-                            </select>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-auto">
-                    <div class="dropdown">
-                        <div>
-                            <label for="character-choice">Character:</label>
-                        </div>
-                        <div>
-                            <input type="text" placeholder="Search" id="myCharacterInput" onkeyup="characterFilterFunction()" required>
-                            <select id="character-choice" size="5">
-                            // JQuery add or remove this
-                            </select>
-                        </div>
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="dropdown">
-                        <div>
-                            <label for="level-choice">Level(1-20):</label>
-                        </div>
-                        <div>
-                            <input type="number" id="level-choice" min="1" max="20" required>
-                        </div>
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="dropdown">
-                        <div>
-                            <label for="promotion-choice">Promoted at Level:</label>
-                        </div>
-                        <div>
-                            <select id="promotion-choice" size="5" required>
-                                <option value="Never">Never</option>
-                                <option value="10">10</option>
-                                <option value="11">11</option>
-                                <option value="12">12</option>
-                                <option value="13">13</option>
-                                <option value="14">14</option>
-                                <option value="15">15</option>
-                                <option value="16">16</option>
-                                <option value="17">17</option>
-                                <option value="18">18</option>
-                                <option value="19">19</option>
-                                <option value="20">20</option>
-                            </select>
-                        </div>
-                    </div> 
-                </div>
-                <div class="col">
-                    <div class="dropdown">
-                        <div>
-                            <label for="class-choice">Class:</label>
-                        </div>
-                        <div>
-                            <input type="text" placeholder="Search" id="myClassInput" onkeyup="classFilterFunction()" required>
-                            <select id="class-choice" size="5" required>
-                        
-                            </select>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="row row-cols-2 row-cols-sm-3 row-cols-md-4">
-                <div class="col">
-                    <div>
-                        <label for="HP">HP:</label>
-                    </div>
-                    <div class="input-group mb-3">
-                        <input type="number" class="form-control" id="HP" placeholder="HP" aria-label="HP" aria-describedby="basic-addon1" required>
-                    </div>
-                </div>
-                <div class="col">
-                    <div>
-                        <label for="StrMag">Strength/Magic:</label>
-                    </div>
-                    <div class="input-group mb-3">
-                        <input type="number" class="form-control" id="StrMag" placeholder="Strength/Magic" aria-label="StrMag" aria-describedby="basic-addon1" required>
-                    </div>
-                </div>
-                <div class="col">
-                    <div>
-                        <label for="Skill">Skill:</label>
-                    </div>
-                    <div class="input-group mb-3">
-                        <input type="number" class="form-control" id="Skill" placeholder="Skill" aria-label="Skill" aria-describedby="basic-addon1" required>
-                    </div>
-                </div>
-                <div class="col">
-                    <div>
-                        <label for="Speed">Speed:</label>
-                    </div>
-                    <div class="input-group mb-3">
-                        <input type="number" class="form-control" id="Speed" placeholder="Speed" aria-label="Speed" aria-describedby="basic-addon1" required>
-                    </div>
-                </div>
-                <div class="col">
-                    <div>
-                        <label for="Luck">Luck:</label>
-                    </div>
-                    <div class="input-group mb-3">
-                        <input type="number" class="form-control" id="Luck" placeholder="Luck" aria-label="Luck" aria-describedby="basic-addon1" required>
-                    </div>
-                </div>
-                <div class="col">
-                    <div>
-                        <label for="Defense">Defense:</label>
-                    </div>
-                    <div class="input-group mb-3">
-                        <input type="number" class="form-control" id="Defense" placeholder="Defense" aria-label="Defense" aria-describedby="basic-addon1" required>
-                    </div>
-                </div>
-                <div class="col">
-                    <div>
-                        <label for="Resistance">Resistance:</label>
-                    </div>
-                    <div class="input-group mb-3">
-                        <input type="number" class="form-control" id="Resistance" placeholder="Resistance" aria-label="Resistance" aria-describedby="basic-addon1" required>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <button type="reset" class="btn submit-button" id="unlucky" onclick="calculateUnluckyProbabilities()">Find Unlucky Probabilities</button>
-                <button type="reset" class="btn submit-button" onclick="calculateLuckyProbabilities()">Find Lucky Probabilities</button>
-            </div>
-            <div class="row">
-                <div class="col">
-                    <h3 class="resultsText"></h3>
-                </div>
-                <div class="col">
-                    <h3 class="resultsText"></h3>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col">
-                    <h3 class="resultsText"></h3>
-                </div>
-                <div class="col">
-                    <h3 class="resultsText"></h3>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col">
-                    <h3 class="resultsText"></h3>
-                </div>
-                <div class="col">
-                    <h3 class="resultsText"></h3>
-                </div>
-            </div>
-            <div class="row">
-                <h3 class="resultsText"></h3>
-            </div>
-            <div class="row">
-                <p>Note: For recruits that are in a final promotion(i.e General), type in the level they promoted from the class before. The probability will assume you promoted your recruit at level 10.</p>
+                <h2 id="draftPPG"></h2>
+                <h2 id="draftSeason"></h2>
+                <h2 id="optimalPPG"></h2>
+                <h2 id="optimalSeason"></h2>
+                <h2 id="PPGPercent"></h2>
+                <h2 id="seasonPercent"></h2>
             </div>
         </div>
         <footer>
