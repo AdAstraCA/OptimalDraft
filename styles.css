@@ -23,6 +23,7 @@ footer {
     padding-bottom: 0.005rem;
     color: #d6cfe5;
 }
+
 .character-info {
     padding: 1rem 0;
 }
@@ -36,40 +37,11 @@ footer {
     border-width: 5px;
 }
 
-.luckyColor {
-    color: #0F52BA;
-}
-
-.resultsText {
-    padding-top: 1rem;
-    padding-bottom: 0;
-}
-
-#unlucky {
-    background-color: #e41c48;
+.optimal {
+    color: #e41c48;
 }
 
 body {
     background-color: #f4f6f8;
     font-family: "Roboto", sans-serif;
-}
-
-label {
-    font-size: 20px;
-    color: #212529;
-}
-
-#game-choice {
-    width: 100%;
-    text-align: center;
-}
-
-#character-choice {
-    width: 50%;
-    text-align: center;
-}
-
-#promotion-choice {
-    width: 30%;
-    text-align: center;
 }
